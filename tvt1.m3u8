@@ -1,0 +1,4 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-id="" tvg-name="TR: BEIN SPORTS HABER" tvg-logo="" group-title="TR SPOR",TR:BEIN SPORTS HABER
+http://vision-tv.nl:8080/MOVIESMARTTURKHD/index.m3u8
