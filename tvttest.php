@@ -1,6 +1,6 @@
 ﻿#EXTM3U
 #EXTINF:-1 tvg-id="" tvg-name="TR: BEIN SPORTS HABER" tvg-logo="" group-title="TR SPOR",TR:BEIN SPORTS HABER
-http://iptvh.it/tvthaber
+http://iptvh.it/http://iptvh.it/live/1234/1234/beinsporhaber.m3u8
 #EXTINF: -1 tvg-id = "" tvg-name = "TR: BEIN SPORTS 1 HD" tvg-logo = "http://epgserver.sihirmedya.com/logoslar/tr/beinsports1hd.png" grup başlığı = " TR SPOR ", TR: BEIN SPORTS 1 HD
 http://canliyayinizle22.xyz:80/live/chnb1/stream.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TR: BEIN SPORTS 1 HD" tvg-logo="http://epgserver.sihirmedya.com/logoslar/tr/beinsports1hd.png" group-title="TR SPOR",TR:BEIN SPORTS 1 HD
