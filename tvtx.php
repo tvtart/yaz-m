@@ -1,6 +1,8 @@
 ﻿#EXTM3U
 #EXTINF:-1 tvg-id="" tvg-name="TR: BEIN SPORTS HABER" tvg-logo="" group-title="TR SPOR",TR:BEIN SPORTS HABER
 http://yayin12.bunusanasoracagim.best:80/selcuksportsfutbol/beinhaber/chunks.m3u8
+#EXTINF: -1 tvg-id = "" tvg-name = "TR: BEIN SPORTS 1 HD" tvg-logo = "http://epgserver.sihirmedya.com/logoslar/tr/beinsports1hd.png" grup başlığı = "TR SPOR", TR: BEIN SPORTS 1 HD
+http://http://canliyayinizle22.xyz:80/live/chnb1/stream.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TR: BEIN SPORTS 1 HD" tvg-logo="http://epgserver.sihirmedya.com/logoslar/tr/beinsports1hd.png" group-title="TR SPOR",TR:BEIN SPORTS 1 HD
 http://yayin12.bunusanasoracagim.best:80/priv/b1111/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TR: BEIN SPORTS 1 HD" tvg-logo="http://epgserver.sihirmedya.com/logoslar/tr/beinsports1hd.png" group-title="TR SPOR",TR:BEIN SPORTS 1 HD
