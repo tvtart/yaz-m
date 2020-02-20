@@ -1,7 +1,0 @@
-#EXTM3U
-#EXTINF:-1 tvg-id="" tvg-name="TR: BEIN SPORTS HABER" tvg-logo="" group-title="TR SPOR",TR:BEIN SPORTS HABER
-https://cy.tc/bhaber_m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TR: BEIN SPORTS 1 SD" tvg-logo="http://epgserver.sihirmedya.com/logoslar/tr/beinsports1hd.png" group-title="TR SPOR",TR:BEIN SPORTS 1 SD
-https://cy.tc/tvtbein1sd_m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TR: BEIN SPORTS 1 HD" tvg-logo="http://epgserver.sihirmedya.com/logoslar/tr/beinsports1hd.png" group-title="TR SPOR",TR:BEIN SPORTS 1 HD
-https://cy.tc/tvtbeinspor1hd_m3u8
