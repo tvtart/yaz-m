@@ -4,9 +4,9 @@ http://yayin12.bunusanasoracagim.best:80/selcuksportsfutbol/beinhaber/chunks.m3u
 #EXTINF: -1 tvg-id = "" tvg-name = "TR: BEIN SPORTS 1 HD" tvg-logo = "http://epgserver.sihirmedya.com/logoslar/tr/beinsports1hd.png" grup başlığı = "TR SPOR", TR: BEIN SPORTS 1 HD
 http://canliyayinizle22.xyz:80/live/chnb1/stream.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TR: BEIN SPORTS 1 HD" tvg-logo="http://epgserver.sihirmedya.com/logoslar/tr/beinsports1hd.png" group-title="TR SPOR",TR:BEIN SPORTS 1 HD
-http://yayin12.bunusanasoracagim.best:80/priv/b1111/playlist.m3u8
+https://1xstream.rakip1.tv:443/beinsport1/video.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TR: BEIN SPORTS 1 HD" tvg-logo="http://epgserver.sihirmedya.com/logoslar/tr/beinsports1hd.png" group-title="TR SPOR",TR:BEIN SPORTS 1 HD
-https://makalemun.net:443/dd3_601.m3u8
+https://1xstream.rakip1.tv:443/beinsport1/video.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TR: BEIN SPORTS 2 HD" tvg-logo="http://epgserver.sihirmedya.com/logoslar/tr/beinsports2hd.png" group-title="TR SPOR",TR:BEIN SPORTS 2 HD
 http://yayin12.bunusanasoracagim.best:80/selcuksportsfutbol/bein22222/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TR: BEIN SPORTS 3 HD" tvg-logo="http://epgserver.sihirmedya.com/logoslar/tr/beinsports3hd.png" group-title="TR SPOR",TR:BEIN SPORTS 3 HD
