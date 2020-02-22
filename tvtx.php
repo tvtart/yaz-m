@@ -30,4 +30,4 @@ http://apptv.iptvlg.com:8080/live/asasdad/adadad/1519.m3u8
 #EXTINF:-1,TR | SİNEMA 3
 http://apptv.iptvlg.com:8080/live/asasdad/adadad/1520.m3u8
 #EXTINF:-1,TR | SİNEMA 4
-http://apptv.iptvlg.com:8080/live/asasdad/adadad/1521.m3u8
+http://yayin222.bunusanasoracagim.best:80/selcuksportssinema/beinmoviesaction2/playlist.m3u8
