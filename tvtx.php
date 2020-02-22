@@ -5,7 +5,7 @@ http://apptv.iptvlg.com:8080/live/asasdad/adadad/1436.m3u8
 http://apptv.iptvlg.com:8080/live/asasdad/adadad/1425.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TR: BEIN SPORTS 1 UHD" tvg-logo="http://epgserver.sihirmedya.com/logoslar/tr/beinsports1hd.png" group-title="TR SPOR",TR:BEIN SPORTS 1 UHD
 http://apptv.iptvlg.com:8080/live/asasdad/adadad/1430.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TR: BEIN SPORTS 1 UHD1" tvg-logo="http://epgserver.sihirmedya.com/logoslar/tr/beinsports1hd.png" group-title="TR SPOR",TR:BEIN SPORTS 1 UHD
+#EXTINF:-1 tvg-id="" tvg-name="TR: BEIN SPORTS 1 UHD" tvg-logo="http://epgserver.sihirmedya.com/logoslar/tr/beinsports1hd.png" group-title="TR SPOR",TR:BEIN SPORTS 1 UHD
 http://apptv.iptvlg.com:8080/live/asasdad/adadad/1431.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TR: BEIN SPORTS 2 HD" tvg-logo="http://epgserver.sihirmedya.com/logoslar/tr/beinsports2hd.png" group-title="TR SPOR",TR:BEIN SPORTS 2 HD
 http://apptv.iptvlg.com:8080/live/asasdad/adadad/1432.m3u8
