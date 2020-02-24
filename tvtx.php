@@ -11,3 +11,9 @@ https://cstream12.com:443/hls/beinsports4_tr_si.m3u8
 https://cstream12.com:443/hls/beinsports1max_tr_si.m3u8
 #EXTINF: -1 tvg-id = "" tvg-name = "TR: BEIN SPORTS MAX 2 UHD" tvg-logo = "http://epgserver.sihirmedya.com/logoslar/tr/beinsports2hdmax.png" grup başlığı = "TR SPOR", TR: BEIN SPORTS MAX 2 UHD
 https://cstream12.com:443/hls/beinsports2max_tr_si.m3u8
+#EXTINF: -1 tvg-id = "" tvg-name = "TR: TIVIBUSPOR 1 UHD" tvg-logo = "http://kde.ipne.be/logoslar/tivibusporhd.png" grup başlığı = "TR SPOR ", TR: TIVIBUSPOR 1 UHD
+https://cstream12.com:443/hls/tivibuspor1_tr.m3u8
+#EXTINF: -1 tvg-id = "" tvg-name = "TR: TIVIBUSPOR 2 UHD" tvg-logo = "http://kde.ipne.be/logoslar/tivibuspor2hd.png" grup başlığı = "TR SPOR ", TR: TIVIBUSPOR 2 UHD
+https://cstream12.com:443/hls/tivibuspor2_tr.m3u8
+#EXTINF: -1 tvg-id = "" tvg-name = "TR: TIVIBUSPOR 3 UHD" tvg-logo = "http://kde.ipne.be/logoslar/tivibuspor3.png" grup başlığı = "TR SPOR ", TR: TIVIBUSPOR 3 UHD
+https://cstream12.com:443/hls/tivibuspor3_tr.m3u8
