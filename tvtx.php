@@ -25,3 +25,5 @@ https://cstream12.com:443/hls/tivibuspor3_tr.m3u8
 https://cstream12.com:443/hls/ssport_tr_si.m3u8
 #EXTINF: -1 tvg-id = "" tvg-name = "TR: BEİN MOVİESTÜRK HD" tvg-logo = "http://picon.webhop.net/logo/turkey/be_in_tr_movies_turk_hd.png" grup-başlığı = " TR SİNEMA ", TR: BEİN MOVİES TÜRK HD
 http://apptv.iptvlg.com:8080/live/canlica/tv938472k/1510.m3u8
+#EXTINF: -1 tvg-id = "" tvg-name = "TR: FİLMBOX ACTİON HD" tvg-logo = "" grup-başlığı = " TR SİNEMA ", TR: FİLMBOX ACTİON HD
+http://apptv.iptvlg.com:8080/live/canlica/tv938472k/1529.m3u8
