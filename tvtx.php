@@ -2,6 +2,8 @@
 #EXTINF: -1 tvg-id = "" tvg-name = "TR: BEIN SPORTS 1 HD" tvg-logo = "http://epgserver.sihirmedya.com/logoslar/tr/beinsports1hd.png" grup başlığı = "TR SPOR", TR: BEIN SPORTS 1 HD
 http://apptv.iptvlg.com:8080/live/canlica/tv938472k/1425.m3u8
 #EXTINF: -1 tvg-id = "" tvg-name = "TR: BEIN SPORTS 1 HD" tvg-logo = "http://epgserver.sihirmedya.com/logoslar/tr/beinsports1hd.png" grup başlığı = "TR SPOR", TR: BEIN SPORTS 1 HD
+http://apptv.iptvlg.com:8080/live/canlica/tv938472k/1423.m3u8
+#EXTINF: -1 tvg-id = "" tvg-name = "TR: BEIN SPORTS 1 HD" tvg-logo = "http://epgserver.sihirmedya.com/logoslar/tr/beinsports1hd.png" grup başlığı = "TR SPOR", TR: BEIN SPORTS 1 HD
 https://cstream12.com:443/hls/beinsports1_tr_si.m3u8
 #EXTINF: -1 tvg-id = "" tvg-name = "TR: BEIN SPORTS 2 HD" tvg-logo = "http://epgserver.sihirmedya.com/logoslar/tr/beinsports2hd.png" grup başlığı = "TR SPOR", TR: BEIN SPORTS 2 HD
 https://cstream12.com:443/hls/beinsports2_tr_si.m3u8
