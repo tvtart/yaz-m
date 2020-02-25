@@ -27,3 +27,5 @@ https://cstream12.com:443/hls/ssport_tr_si.m3u8
 http://apptv.iptvlg.com:8080/live/canlica/tv938472k/1510.m3u8
 #EXTINF: -1 tvg-id = "" tvg-name = "TR: FİLMBOX ACTİON HD" tvg-logo = "" grup-başlığı = " TR SİNEMA ", TR: FİLMBOX ACTİON HD
 http://apptv.iptvlg.com:8080/live/canlica/tv938472k/1529.m3u8
+#EXTINF: -1 tvg-id = "" tvg-name = "TR: FİLMBOX YERLİ HD" tvg-logo = "" grup-başlığı = " TR SİNEMA ", TR: FİLMBOX YERLİ HD
+http://apptv.iptvlg.com:8080/live/canlica/tv938472k/1526.m3u8
