@@ -6,7 +6,7 @@ http://yayin12.bunusanasoracagim.best:80/priv/b1111/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TR: BEIN SPORTS 1 HD" tvg-logo="http://epgserver.sihirmedya.com/logoslar/tr/beinsports1hd.png" group-title="TR SPOR",TR:BEIN SPORTS 1 HD
 https://makalemun.net:443/dd3_601.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TR: BEIN SPORTS 2 HD" tvg-logo="http://epgserver.sihirmedya.com/logoslar/tr/beinsports2hd.png" group-title="TR SPOR",TR:BEIN SPORTS 2 HD
-http://yayin12.bunusanasoracagim.best:80/selcuksportsfutbol/bein2222/playlist.m3u8
+http://yayin12.bunusanasoracagim.best:80/selcuksportsfutbol/bein22222/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TR: BEIN SPORTS 3 HD" tvg-logo="http://epgserver.sihirmedya.com/logoslar/tr/beinsports3hd.png" group-title="TR SPOR",TR:BEIN SPORTS 3 HD
 http://yayin12.bunusanasoracagim.best:80/selcuksportsfutbol/bein3333/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TR: BEIN SPORTS 4 HD" tvg-logo="http://epgserver.sihirmedya.com/logoslar/tr/beinsports4hd.png" group-title="TR SPOR",TR:BEIN SPORTS 4 HD
