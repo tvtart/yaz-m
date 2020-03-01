@@ -2,7 +2,7 @@
 #EXTINF:-1 tvg-id="" tvg-name="TR: BEIN SPORTS HABER HD" tvg-logo="http://epgserver.sihirmedya.com/logoslar/tr/beinsports1hd.png" group-title="TR SPOR",TR:BEIN SPORTS HABER HD
 http://yayin12.bunusanasoracagim.best:80/selcuksportsfutbol/beinhaber/chunks.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TR: BEIN SPORTS 1 HD" tvg-logo="http://epgserver.sihirmedya.com/logoslar/tr/beinsports1hd.png" group-title="TR SPOR",TR:BEIN SPORTS 1 HD
-http://yayin12.bunusanasoracagim.best:80/priv/b1111/playlist.m3u8
+https://bein-tr-live.ercdn.com:443/playtr_sh/bein/bein_sports_01_clean/bein_sports_01_clean.isml/bein_sports_01_clean-audio_tur=96000-video=800000.m3u8?st=1_oCt81GyQf7eKLKB-Yong&e=1583103873&userid=ed12103096
 #EXTINF:-1 tvg-id="" tvg-name="TR: BEIN SPORTS 2 HD" tvg-logo="http://epgserver.sihirmedya.com/logoslar/tr/beinsports2hd.png" group-title="TR SPOR",TR:BEIN SPORTS 2 HD
 http://yayin12.bunusanasoracagim.best:80/selcuksportsfutbol/bein22222/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TR: BEIN SPORTS 3 HD" tvg-logo="http://epgserver.sihirmedya.com/logoslar/tr/beinsports3hd.png" group-title="TR SPOR",TR:BEIN SPORTS 3 HD
