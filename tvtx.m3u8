@@ -1,5 +1,5 @@
 ﻿#EXTM3U
-#EXTINF:-1 tvg-id="" tvg-name="TR: SATİN AL" tvg-logo="http://epgserver.sihirmedya.com/logoslar/tr/beinsports1hd.png" group-title="TR SPOR",TR:SATİN AL
+#EXTINF:-1 tvg-id="" tvg-name="TR: SATİN AL" tvg-logo="" group-title="TR SPOR",TR:SATİN AL
 https://web.paym.es/yazilim-hizmetleri-17994
 #EXTINF:-1 tvg-id="" tvg-name="TR: BEIN SPORTS HABER HD" tvg-logo="http://epgserver.sihirmedya.com/logoslar/tr/beinsports1hd.png" group-title="TR SPOR",TR:BEIN SPORTS HABER HD
 http://yayin12.bunusanasoracagim.best:80/selcuksportsfutbol/beinhaber/chunks.m3u8
