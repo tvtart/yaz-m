@@ -100,6 +100,8 @@ https://mn-nl.mncdn.com:443/blutv_foxtv/smil:foxtv_hd.smil/chunklist_b3128000.m3
 https://mn-nl.mncdn.com:443/blutv_kanald/smil:kanald_hd.smil/chunklist_b3128000.m3u8
 #EXTINF:-1 tvg-id="TRT 1 HD" tvg-name="TR: TRT 1 FULL HD" tvg-logo="http://3biptv.com/3btv/trt1.jpg" group-title="TR: ULUSAL",TR: TRT 1 FULL HD
 http://trtcanlitv-lh.akamaihd.net:80/i/TRT1HD_1@181842/master.m3u8
+#EXTINF:-1 tvg-id="TRT 1 HD" tvg-name="TR: 360 HD" tvg-logo="http://3biptv.com/3btv/trt1.jpg" group-title="TR: ULUSAL",TR: 360 HD
+http://kralphp.com:80/yayin/130.m3u8
 #EXTINF:-1 tvg-id="TV8 HD" tvg-name="TR: TV 8 FULL HD" tvg-logo="http://3biptv.com/3btv/tv8tr.png" group-title="TR: ULUSAL",TR: TV 8 FULL HD
 https://mn-nl.mncdn.com:443/blutv_tv8/smil:tv8_hd1.smil/chunklist_b3128000.m3u8
 #EXTINF:-1 tvg-id="TV 8,5 HD" tvg-name="TR: TV 8.5 FULL HD" tvg-logo="https://drive.google.com/uc?export=download&id=1p1mA7fOKVDPUoXg2ACxn5VPfb7rOXV4r" group-title="TR: ULUSAL",TR: TV 8.5 FULL HD
