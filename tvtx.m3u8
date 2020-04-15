@@ -1,14 +1,14 @@
 ﻿#EXTM3U
 #EXTINF:-1 tvg-id="" tvg-name="TR: BEIN SPORTS HABER HD" tvg-logo="http://epgserver.sihirmedya.com/logoslar/tr/beinsports1hd.png" group-title="TR SPOR",TR:BEIN SPORTS HABER HD
-http://apptv.iptvlg.com:8080/live/c4nL1p/GoPI1@ZiKhW8!VxRt4.DcA3hFn0Q/61.m3u8
+http://apptv.iptvlg.com:8080/live/kRoN3i/RpOx9!AyR4mHT3@ZoLiB5.FjUnEv0/61.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TR: BEIN SPORTS 1 HD" tvg-logo="http://epgserver.sihirmedya.com/logoslar/tr/beinsports1hd.png" group-title="TR SPOR",TR:BEIN SPORTS 1 HD
-http://apptv.iptvlg.com:8080/live/c4nL1p/GoPI1@ZiKhW8!VxRt4.DcA3hFn0Q/50.m3u8
+http://apptv.iptvlg.com:8080/live/kRoN3i/RpOx9!AyR4mHT3@ZoLiB5.FjUnEv0/50.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TR: BEIN SPORTS 2 HD" tvg-logo="http://epgserver.sihirmedya.com/logoslar/tr/beinsports2hd.png" group-title="TR SPOR",TR:BEIN SPORTS 2 HD
-http://apptv.iptvlg.com:8080/live/c4nL1p/GoPI1@ZiKhW8!VxRt4.DcA3hFn0Q/57.m3u8
+http://apptv.iptvlg.com:8080/live/kRoN3i/RpOx9!AyR4mHT3@ZoLiB5.FjUnEv0/57.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TR: BEIN SPORTS 3 HD" tvg-logo="http://epgserver.sihirmedya.com/logoslar/tr/beinsports3hd.png" group-title="TR SPOR",TR:BEIN SPORTS 3 HD
-http://apptv.iptvlg.com:8080/live/c4nL1p/GoPI1@ZiKhW8!VxRt4.DcA3hFn0Q/52.m3u8
+http://apptv.iptvlg.com:8080/live/kRoN3i/RpOx9!AyR4mHT3@ZoLiB5.FjUnEv0/52.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TR: BEIN SPORTS 4 HD" tvg-logo="http://epgserver.sihirmedya.com/logoslar/tr/beinsports4hd.png" group-title="TR SPOR",TR:BEIN SPORTS 4 HD
-http://apptv.iptvlg.com:8080/live/c4nL1p/GoPI1@ZiKhW8!VxRt4.DcA3hFn0Q/53.m3u8
+http://apptv.iptvlg.com:8080/live/kRoN3i/RpOx9!AyR4mHT3@ZoLiB5.FjUnEv0/53.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TR: BEIN SPORTS MAX 1 UHD" tvg-logo="http://epgserver.sihirmedya.com/logoslar/tr/beinsports1max.png" group-title="TR SPOR",TR:BEIN SPORTS MAX 1 UHD
 http://yayin13.bunusanasoracagim.best:80/selcuksportsfutbol/beinmax1111/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TR: BEIN SPORTS MAX 2 UHD" tvg-logo="http://epgserver.sihirmedya.com/logoslar/tr/beinsports2hdmax.png" group-title="TR SPOR",TR:BEIN SPORTS MAX 2 UHD
