@@ -10,9 +10,9 @@ http://apptv.iptvlg.com:8080/live/kRoN3i/RpOx9!AyR4mHT3@ZoLiB5.FjUnEv0/52.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TR: BEIN SPORTS 4 HD" tvg-logo="http://epgserver.sihirmedya.com/logoslar/tr/beinsports4hd.png" group-title="TR SPOR",TR:BEIN SPORTS 4 HD
 http://apptv.iptvlg.com:8080/live/kRoN3i/RpOx9!AyR4mHT3@ZoLiB5.FjUnEv0/53.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TR: BEIN SPORTS MAX 1 UHD" tvg-logo="http://epgserver.sihirmedya.com/logoslar/tr/beinsports1max.png" group-title="TR SPOR",TR:BEIN SPORTS MAX 1 UHD
-http://yayin13.bunusanasoracagim.best:80/selcuksportsfutbol/beinmax1111/playlist.m3u8
+http://apptv.iptvlg.com:8080/live/kRoN3i/RpOx9!AyR4mHT3@ZoLiB5.FjUnEv0/62.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TR: BEIN SPORTS MAX 2 UHD" tvg-logo="http://epgserver.sihirmedya.com/logoslar/tr/beinsports2hdmax.png" group-title="TR SPOR",TR:BEIN SPORTS MAX 2 UHD
-http://yayin13.bunusanasoracagim.best:80/selcuksportsfutbol/beinmax2222/playlist.m3u8
+http://apptv.iptvlg.com:8080/live/kRoN3i/RpOx9!AyR4mHT3@ZoLiB5.FjUnEv0/63.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TR: TIVIBUSPOR 1 UHD" tvg-logo="http://kde.ipne.be/logoslar/tivibusporhd.png" group-title="TR SPOR",TR:TIVIBUSPOR 1 UHD
 http://yayin13.bunusanasoracagim.best:80/selcuksportsfutbol/tivibu11/chunks.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TR: TIVIBUSPOR 2 UHD" tvg-logo="http://kde.ipne.be/logoslar/tivibuspor2hd.png" group-title="TR SPOR",TR:TIVIBUSPOR 2 UHD
