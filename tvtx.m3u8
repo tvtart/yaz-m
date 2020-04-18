@@ -3,12 +3,14 @@
 https://tv-e-okul02.live.trt.com.tr:443/master_720.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TR: BEIN SPORTS HABER HD" tvg-logo="http://epgserver.sihirmedya.com/logoslar/tr/beinsports1hd.png" group-title="TR SPOR",TR:BEIN SPORTS HABER HD
 http://yayin14.bunusanasoracagim.best:80/selcuksportsfutbol/beinhaber/chunks.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TR: BEIN SPORTS 1 HD" tvg-logo="http://epgserver.sihirmedya.com/logoslar/tr/beinsports1hd.png" group-title="TR SPOR",TR:BEIN SPORTS 1 HD
+EXTINF:-1 tvg-id="" tvg-name="TR: BEIN SPORTS 1 HD" tvg-logo="http://epgserver.sihirmedya.com/logoslar/tr/beinsports1hd.png" group-title="TR SPOR",TR:BEIN SPORTS 1 HD
 https://cdn.nsxmedia.net:443/hlspubx/143.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR: BEIN SPORTS 1 HD" tvg-logo="http://epgserver.sihirmedya.com/logoslar/tr/beinsports1hd.png" group-title="TR SPOR",TR:BEIN SPORTS 1 HD
+https://mdscdn.com:443/vv/bein-sport-1.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TR: BEIN SPORTS 2 HD" tvg-logo="http://epgserver.sihirmedya.com/logoslar/tr/beinsports2hd.png" group-title="TR SPOR",TR:BEIN SPORTS 2 HD
-http://yayin14.bunusanasoracagim.best:80/selcuksportsfutbol/bein22222/playlist.m3u8
+https://mdscdn.com:443/vv/bein-sport-2.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TR: BEIN SPORTS 3 HD" tvg-logo="http://epgserver.sihirmedya.com/logoslar/tr/beinsports3hd.png" group-title="TR SPOR",TR:BEIN SPORTS 3 HD
-http://yayin14.bunusanasoracagim.best:80/selcuksportsfutbol/bein3333/playlist.m3u8
+https://mdscdn.com:443/vv/bein-sport-3.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TR: BEIN SPORTS 4 HD" tvg-logo="http://epgserver.sihirmedya.com/logoslar/tr/beinsports4hd.png" group-title="TR SPOR",TR:BEIN SPORTS 4 HD
 http://yayin14.bunusanasoracagim.best:80/selcuksportsfutbol/bein4444/playlist.m3u8"
 #EXTINF:-1 tvg-id="" tvg-name="TR: BEIN SPORTS MAX 1 UHD" tvg-logo="http://epgserver.sihirmedya.com/logoslar/tr/beinsports1max.png" group-title="TR SPOR",TR:BEIN SPORTS MAX 1 UHD
