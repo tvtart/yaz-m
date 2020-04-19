@@ -1,17 +1,16 @@
 ﻿#EXTM3U
 #EXTINF:-1 tvg-id="" tvg-name="TR: EBA LİSE" tvg-logo="" group-title="TR EBA",TR:EBA LİSE
 https://tv-e-okul02.live.trt.com.tr:443/master_720.m3u8
-
 #EXTINF:-1 tvg-id="" tvg-name="TR: BEIN SPORTS 1 HD" tvg-logo="http://epgserver.sihirmedya.com/logoslar/tr/beinsports1hd.png" group-title="TR SPOR",TR:BEIN SPORTS 1 HD
 https://cdn.nsxmedia.net:443/hlspubx/143.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TR: BEIN SPORTS 1 HD" tvg-logo="http://epgserver.sihirmedya.com/logoslar/tr/beinsports1hd.png" group-title="TR SPOR",TR:BEIN SPORTS 1 HD
-
+https://1xstream.rakip1.tv:443/beinsport1/video.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TR: BEIN SPORTS 2 HD" tvg-logo="http://epgserver.sihirmedya.com/logoslar/tr/beinsports2hd.png" group-title="TR SPOR",TR:BEIN SPORTS 2 HD
-
+https://1xstream.rakip1.tv:443/beinsport2/video.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TR: BEIN SPORTS 3 HD" tvg-logo="http://epgserver.sihirmedya.com/logoslar/tr/beinsports3hd.png" group-title="TR SPOR",TR:BEIN SPORTS 3 HD
-
+https://1xstream.rakip1.tv:443/beinsport3/video.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TR: BEIN SPORTS 4 HD" tvg-logo="http://epgserver.sihirmedya.com/logoslar/tr/beinsports4hd.png" group-title="TR SPOR",TR:BEIN SPORTS 4 HD
-
+https://1xstream.rakip1.tv:443/beinsport4/video.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TR: BEIN SPORTS MAX 1 UHD" tvg-logo="http://epgserver.sihirmedya.com/logoslar/tr/beinsports1max.png" group-title="TR SPOR",TR:BEIN SPORTS MAX 1 UHD
 
 #EXTINF:-1 tvg-id="" tvg-name="TR: BEIN SPORTS MAX 2 UHD" tvg-logo="http://epgserver.sihirmedya.com/logoslar/tr/beinsports2hdmax.png" group-title="TR SPOR",TR:BEIN SPORTS MAX 2 UHD
