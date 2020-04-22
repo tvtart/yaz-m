@@ -1,0 +1,185 @@
+﻿#EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="TR: BEIN SPORTS HABER HD" tvg-logo="http://epgserver.sihirmedya.com/logoslar/tr/beinsports1hd.png" group-title="TR SPOR",TR:BEIN SPORTS HABER HD
+http://apptv.iptvlg.com:8080/live/PluS0nT/A2bXvZ!BvX9.K8UoPsH.BvX@AzX3/61.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR: BEIN SPORTS 1 HD" tvg-logo="http://epgserver.sihirmedya.com/logoslar/tr/beinsports1hd.png" group-title="TR SPOR",TR:BEIN SPORTS 1 HD
+http://apptv.iptvlg.com:8080/live/PluS0nT/A2bXvZ!BvX9.K8UoPsH.BvX@AzX3/50.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR: BEIN SPORTS 1 UHD" tvg-logo="http://epgserver.sihirmedya.com/logoslar/tr/beinsports1hd.png" group-title="TR SPOR",TR:BEIN SPORTS 1 UHD
+http://apptv.iptvlg.com:8080/live/PluS0nT/A2bXvZ!BvX9.K8UoPsH.BvX@AzX3/55.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR: BEIN SPORTS 2 HD" tvg-logo="http://epgserver.sihirmedya.com/logoslar/tr/beinsports2hd.png" group-title="TR SPOR",TR:BEIN SPORTS 2 HD
+http://apptv.iptvlg.com:8080/live/PluS0nT/A2bXvZ!BvX9.K8UoPsH.BvX@AzX3/51.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR: BEIN SPORTS 3 HD" tvg-logo="http://epgserver.sihirmedya.com/logoslar/tr/beinsports3hd.png" group-title="TR SPOR",TR:BEIN SPORTS 3 HD
+http://apptv.iptvlg.com:8080/live/PluS0nT/A2bXvZ!BvX9.K8UoPsH.BvX@AzX3/52.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR: BEIN SPORTS 4 HD" tvg-logo="http://epgserver.sihirmedya.com/logoslar/tr/beinsports4hd.png" group-title="TR SPOR",TR:BEIN SPORTS 4 HD
+http://apptv.iptvlg.com:8080/live/PluS0nT/A2bXvZ!BvX9.K8UoPsH.BvX@AzX3/53.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR: BEIN SPORTS MAX 1 UHD" tvg-logo="http://epgserver.sihirmedya.com/logoslar/tr/beinsports1max.png" group-title="TR SPOR",TR:BEIN SPORTS MAX 1 UHD
+http://apptv.iptvlg.com:8080/live/PluS0nT/A2bXvZ!BvX9.K8UoPsH.BvX@AzX3/62.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR: BEIN SPORTS MAX 2 UHD" tvg-logo="http://epgserver.sihirmedya.com/logoslar/tr/beinsports2hdmax.png" group-title="TR SPOR",TR:BEIN SPORTS MAX 2 UHD
+http://apptv.iptvlg.com:8080/live/PluS0nT/A2bXvZ!BvX9.K8UoPsH.BvX@AzX3/63.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR: TIVIBUSPOR 1 UHD" tvg-logo="http://kde.ipne.be/logoslar/tivibusporhd.png" group-title="TR SPOR",TR:TIVIBUSPOR 1 UHD
+http://apptv.iptvlg.com:8080/live/PluS0nT/A2bXvZ!BvX9.K8UoPsH.BvX@AzX3/66.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR: TIVIBUSPOR 2 UHD" tvg-logo="http://kde.ipne.be/logoslar/tivibuspor2hd.png" group-title="TR SPOR",TR:TIVIBUSPOR 2 UHD
+http://apptv.iptvlg.com:8080/live/PluS0nT/A2bXvZ!BvX9.K8UoPsH.BvX@AzX3/67.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR: TIVIBUSPOR 3 UHD" tvg-logo="http://kde.ipne.be/logoslar/tivibuspor3.png" group-title="TR SPOR",TR:TIVIBUSPOR 3 UHD
+http://apptv.iptvlg.com:8080/live/PluS0nT/A2bXvZ!BvX9.K8UoPsH.BvX@AzX3/68.m3u8
+#EXTINF:-1 tvg-ID="s sport hd" tvg-name="TR: S SPORT HD" tvg-logo="http://picon.webhop.net/logo/turkey2/s_sport_tr.png" group-title="TR SPOR",TR:S SPORT HD
+http://apptv.iptvlg.com:8080/live/PluS0nT/A2bXvZ!BvX9.K8UoPsH.BvX@AzX3/75.m3u8
+#EXTINF:-1 tvg-ID="s sport hd" tvg-name="TR: S SPORT 2 HD" tvg-logo="http://picon.webhop.net/logo/turkey2/s_sport_tr.png" group-title="TR SPOR",TR:S SPORT 2 HD
+http://apptv.iptvlg.com:8080/live/PluS0nT/A2bXvZ!BvX9.K8UoPsH.BvX@AzX3/76.m3u8
+#EXTINF:-1 tvg-ID="NULL" tvg-name="TR: SMART SPOR  HD" tvg-logo="http://picon.webhop.net/logo/turkey2/smart_spor_hd.png" group-title="TR SPOR",TR:SMART SPOR  HD
+http://apptv.iptvlg.com:8080/live/PluS0nT/A2bXvZ!BvX9.K8UoPsH.BvX@AzX3/77.m3u8
+#EXTINF:-1 tvg-id="Eurosport.tr" tvg-name="TR: EUROSPORT 1 HD" tvg-logo="http://epgserver.sihirmedya.com/logoslar/tr/eurosport1hd.png" group-title="TR SPOR",TR:EUROSPORT 1 HD
+http://apptv.iptvlg.com:8080/live/PluS0nT/A2bXvZ!BvX9.K8UoPsH.BvX@AzX3/85.m3u8
+#EXTINF:-1 tvg-id="Eurosport2.tr" tvg-name="TR: EUROSPORT 2 HD" tvg-logo="http://epgserver.sihirmedya.com/logoslar/tr/eurosport2hd.png" group-title="TR SPOR",TR:EUROSPORT 2 HD
+http://apptv.iptvlg.com:8080/live/PluS0nT/A2bXvZ!BvX9.K8UoPsH.BvX@AzX3/86.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="TR: BEIN BOX OFFICE 1 HD" tvg-logo="http://picon.webhop.net/logo/turkey2/bein-box-officie-1.png " group-title="TR SİNEMA",TR:BEIN BOX OFFICE 1 HD
+
+#EXTINF:-1 tvg-id="" tvg-name="TR: BEIN BOX OFFICE 2 HD" tvg-logo="http://picon.webhop.net/logo/turkey2/beinboxoffice2.png " group-title="TR SİNEMA",TR:BEIN BOX OFFICE 2 HD
+
+#EXTINF:-1 tvg-id="" tvg-name="TR: BEIN BOX OFFICE 3 HD" tvg-logo="http://picon.webhop.net/logo/turkey2/beinboxoffice3.png " group-title="TR SİNEMA",TR:BEIN BOX OFFICE 3 HD
+
+#EXTINF:-1 tvg-id="" tvg-name="TR:BEİN MOVİESACTİON HD" tvg-logo="http://picon.webhop.net/logo/turkey/be_in_tr_movies_action_01_hd.png" group-title="TR SİNEMA",TR:BEİN MOVİES ACTİON HD
+http://apptv.iptvlg.com:8080/live/PluS0nT/A2bXvZ!BvX9.K8UoPsH.BvX@AzX3/135.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR:BEİN MOVİESACTİON 2 HD" tvg-logo="http://picon.webhop.net/logo/turkey/be_in_tr_movies_action_01_hd.png" group-title="TR SİNEMA",TR:BEİN MOVİES ACTİON 2 HD
+
+#EXTINF:-1 tvg-id="" tvg-name="TR:BEİN MOVİESPREMİER HD" tvg-logo="http://picon.webhop.net/logo/turkey/be_in_tr_movies_premier_01_hd.png" group-title="TR SİNEMA",TR:BEİN MOVİES PREMİER HD
+http://apptv.iptvlg.com:8080/live/PluS0nT/A2bXvZ!BvX9.K8UoPsH.BvX@AzX3/137.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR:BEİN MOVİESPREMİER 2 HD" tvg-logo="http://picon.webhop.net/logo/turkey/be_in_tr_movies_premier_01_hd.png" group-title="TR SİNEMA",TR:BEİN MOVİES PREMİER 2 HD
+http://apptv.iptvlg.com:8080/live/PluS0nT/A2bXvZ!BvX9.K8UoPsH.BvX@AzX3/138.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR:BEİN MOVİESSTARS HD" tvg-logo="http://picon.webhop.net/logo/turkey/be_in_tr_movies_stars_hd.png " group-title="TR SİNEMA",TR:BEİN MOVİES STARS HD
+http://apptv.iptvlg.com:8080/live/PluS0nT/A2bXvZ!BvX9.K8UoPsH.BvX@AzX3/139.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR:BEİN MOVİESFAMLY HD" tvg-logo="http://picon.webhop.net/logo/turkey/be_in_tr_movies_family_hd.png " group-title="TR SİNEMA",TR:BEİN MOVİES FAMLY HD
+http://apptv.iptvlg.com:8080/live/PluS0nT/A2bXvZ!BvX9.K8UoPsH.BvX@AzX3/136.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR:BEİN MOVİESTÜRK HD" tvg-logo="http://picon.webhop.net/logo/turkey/be_in_tr_movies_turk_hd.png" group-title="TR SİNEMA",TR:BEİN MOVİES TÜRK HD
+http://apptv.iptvlg.com:8080/live/PluS0nT/A2bXvZ!BvX9.K8UoPsH.BvX@AzX3/134.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR: MOVİES SMART ACTİON HD" tvg-logo="http://picon.webhop.net/logo/turkey/movie_smart_action_hd.png" group-title="TR SİNEMA",TR:MOVİES SMART ACTİON HD
+
+#EXTINF:-1 tvg-id="" tvg-name="TR: MOVİES SMART FAMİLY HD" tvg-logo="http://picon.webhop.net/logo/turkey/movie_smart_family_hd.png" group-title="TR SİNEMA",TR:MOVİES SMART FAMİLY HD
+
+#EXTINF:-1 tvg-id="" tvg-name="TR: MOVİES SMART TURK HD" tvg-logo="http://picon.webhop.net/logo/turkey2/moviemax_turk_tr_hd.png " group-title="TR SİNEMA",TR:MOVİES SMART TURK HD
+http://apptv.iptvlg.com:8080/live/PluS0nT/A2bXvZ!BvX9.K8UoPsH.BvX@AzX3/144.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR: MOVlES SMART PLATİN HD" tvg-logo="http://picon.webhop.net/logo/turkey/movie_smart_platin.png " group-title="TR SİNEMA",TR:MOVlES SMART PLATİN HD
+http://apptv.iptvlg.com:8080/live/PluS0nT/A2bXvZ!BvX9.K8UoPsH.BvX@AzX3/148.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR: MOVlES SMART PLATİN 2 HD" tvg-logo="http://picon.webhop.net/logo/turkey/movie_smart_platin_2_hd.png " group-title="TR SİNEMA",TR:MOVlES SMART PLATİN 2 HD
+http://apptv.iptvlg.com:8080/live/PluS0nT/A2bXvZ!BvX9.K8UoPsH.BvX@AzX3/149.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR: MOVlES SMART PREMİUM HD" tvg-logo="http://picon.webhop.net/logo/turkey/movie_smart_premium_hd.png" group-title="TR SİNEMA",TR:MOVlES SMART PREMİUM HD
+http://apptv.iptvlg.com:8080/live/PluS0nT/A2bXvZ!BvX9.K8UoPsH.BvX@AzX3/146.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR: MOVlES SMART PREMİUM 2 HD" tvg-logo="http://picon.webhop.net/logo/turkey/movie_smart_premium_2_hd.png" group-title="TR SİNEMA",TR:MOVlES SMART PREMİUM 2 HD
+http://apptv.iptvlg.com:8080/live/PluS0nT/A2bXvZ!BvX9.K8UoPsH.BvX@AzX3/147.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR:FİLMBOX ACTİON" tvg-logo="" group-title"TR SİNEMA",TR:FİLMBOX ACTİON
+http://apptv.iptvlg.com:8080/live/PluS0nT/A2bXvZ!BvX9.K8UoPsH.BvX@AzX3/159.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR:FİLMBOX COMEDY" tvg-logo="" group-title"TR SİNEMA",TR:FİLMBOX COMEDY
+http://apptv.iptvlg.com:8080/live/PluS0nT/A2bXvZ!BvX9.K8UoPsH.BvX@AzX3/160.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR:FİLMBOX FANTASTIC" tvg-logo="" group-title="TR SİNEMA",TR:FİLMBOX FANTASTIC
+http://apptv.iptvlg.com:8080/live/PluS0nT/A2bXvZ!BvX9.K8UoPsH.BvX@AzX3/162.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR:FİLMBOX SİNEVİZYON 1" tvg-logo="" group-title="TR SİNEMA",TR:FİLMBOX SİNEVİZYON 1
+http://apptv.iptvlg.com:8080/live/PluS0nT/A2bXvZ!BvX9.K8UoPsH.BvX@AzX3/167.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR:FİLMBOX SİNEVİZYON 2" tvg-logo="" group-title="TR SİNEMA",TR:FİLMBOX SİNEVİZYON 2
+http://apptv.iptvlg.com:8080/live/PluS0nT/A2bXvZ!BvX9.K8UoPsH.BvX@AzX3/168.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR:FİLMBOX SİNEVİZYON 3" tvg-logo="" group-title="TR SİNEMA",TR:FİLMBOX SİNEVİZYON 3
+http://apptv.iptvlg.com:8080/live/PluS0nT/A2bXvZ!BvX9.K8UoPsH.BvX@AzX3/169.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR:FİLMBOX SİNEVİZYON 4" tvg-logo="" group-title="TR SİNEMA",TR:FİLMBOX SİNEVİZYON 4
+http://apptv.iptvlg.com:8080/live/PluS0nT/A2bXvZ!BvX9.K8UoPsH.BvX@AzX3/170.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR:FİLMBOX SİNEVİZYON 5" tvg-logo="" group-title="TR SİNEMA",TR:FİLMBOX SİNEVİZYON 5
+http://apptv.iptvlg.com:8080/live/PluS0nT/A2bXvZ!BvX9.K8UoPsH.BvX@AzX3/171.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR:FİLMBOX SİNEVİZYON 6" tvg-logo="" group-title="TR SİNEMA",TR:FİLMBOX SİNEVİZYON 6
+http://apptv.iptvlg.com:8080/live/PluS0nT/A2bXvZ!BvX9.K8UoPsH.BvX@AzX3/172.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR:FİLMBOX SİNEVİZYON 7" tvg-logo="" group-title="TR SİNEMA",TR:FİLMBOX SİNEVİZYON 7
+http://apptv.iptvlg.com:8080/live/PluS0nT/A2bXvZ!BvX9.K8UoPsH.BvX@AzX3/173.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR:FİLMBOX SİNEVİZYON 8" tvg-logo="" group-title="TR SİNEMA",TR:FİLMBOX SİNEVİZYON 8
+http://apptv.iptvlg.com:8080/live/PluS0nT/A2bXvZ!BvX9.K8UoPsH.BvX@AzX3/174.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR:FİLMBOX SİNEVİZYON 9" tvg-logo="" group-title="TR SİNEMA",TR:FİLMBOX SİNEVİZYON 9
+http://apptv.iptvlg.com:8080/live/PluS0nT/A2bXvZ!BvX9.K8UoPsH.BvX@AzX3/175.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR:FİLMBOX SİNEVİZYON 10" tvg-logo="" group-title="TR SİNEMA",TR:FİLMBOX SİNEVİZYON 10
+http://apptv.iptvlg.com:8080/live/PluS0nT/A2bXvZ!BvX9.K8UoPsH.BvX@AzX3/176.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR:FİLMBOX SİNEVİZYON 11" tvg-logo="" group-title="TR SİNEMA",TR:FİLMBOX SİNEVİZYON 11
+http://apptv.iptvlg.com:8080/live/PluS0nT/A2bXvZ!BvX9.K8UoPsH.BvX@AzX3/177.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR:FİLMBOX SİNEVİZYON 12" tvg-logo="" group-title="TR SİNEMA",TR:FİLMBOX SİNEVİZYON 12
+http://apptv.iptvlg.com:8080/live/PluS0nT/A2bXvZ!BvX9.K8UoPsH.BvX@AzX3/178.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR:FİLMBOX SİNEVİZYON 13" tvg-logo="" group-title="TR SİNEMA",TR:FİLMBOX SİNEVİZYON 13
+http://apptv.iptvlg.com:8080/live/PluS0nT/A2bXvZ!BvX9.K8UoPsH.BvX@AzX3/179.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR:FİLMBOX SİNEVİZYON 14" tvg-logo="" group-title="TR SİNEMA",TR:FİLMBOX SİNEVİZYON 14
+http://apptv.iptvlg.com:8080/live/PluS0nT/A2bXvZ!BvX9.K8UoPsH.BvX@AzX3/180.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR:FİLMBOX SİNEVİZYON 15" tvg-logo="" group-title="TR SİNEMA",TR:FİLMBOX SİNEVİZYON 15
+
+#EXTINF:-1 tvg-id="" tvg-name="TR:FİLMBOX SİNEVİZYON 16" tvg-logo="" group-title="TR SİNEMA",TR:FİLMBOX SİNEVİZYON 16
+http://apptv.iptvlg.com:8080/live/PluS0nT/A2bXvZ!BvX9.K8UoPsH.BvX@AzX3/181.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR:FİLMBOX SİNEVİZYON 17" tvg-logo="" group-title="TR SİNEMA",TR:FİLMBOX SİNEVİZYON 17
+http://apptv.iptvlg.com:8080/live/PluS0nT/A2bXvZ!BvX9.K8UoPsH.BvX@AzX3/182.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR:FİLMBOX SİNEVİZYON 18" tvg-logo="" group-title="TR SİNEMA",TR:FİLMBOX SİNEVİZYON 18
+http://apptv.iptvlg.com:8080/live/PluS0nT/A2bXvZ!BvX9.K8UoPsH.BvX@AzX3/183.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR:FİLMBOX SİNEVİZYON 19" tvg-logo="" group-title="TR SİNEMA",TR:FİLMBOX SİNEVİZYON 19
+http://apptv.iptvlg.com:8080/live/PluS0nT/A2bXvZ!BvX9.K8UoPsH.BvX@AzX3/184.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR:FİLMBOX SİNEVİZYON 20" tvg-logo="" group-title="TR SİNEMA",TR:FİLMBOX SİNEVİZYON 20
+http://apptv.iptvlg.com:8080/live/PluS0nT/A2bXvZ!BvX9.K8UoPsH.BvX@AzX3/1851".m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="TR: NATIONAL GEOGRAPHIC HD" tvg-logo="http://kde.ipne.be/logoslar/natgeohd.png" group-title="TR BELGESEL",TR:NATIONAL GEOGRAPHIC HD
+http://apptv.iptvlg.com:8080/live/PluS0nT/A2bXvZ!BvX9.K8UoPsH.BvX@AzX3/161.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR: NAT GEO PEOPLE HD" tvg-logo="http://kde.ipne.be/logoslar/natgeopeoplehd.png" group-title="TR BELGESEL",TR:NAT GEO PEOPLE HD
+http://apptv.iptvlg.com:8080/live/PluS0nT/A2bXvZ!BvX9.K8UoPsH.BvX@AzX3/161.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR: NATIONAL WILD HD" tvg-logo="http://kde.ipne.be/logoslar/natgeowildhd.png" group-title="TR BELGESEL",TR:NATIONAL WILD HD
+http://apptv.iptvlg.com:8080/live/PluS0nT/A2bXvZ!BvX9.K8UoPsH.BvX@AzX3/161.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR: DISCOVERY CHANNEL HD" tvg-logo="http://epgserver.sihirmedya.com/logoslar/tr/discovery.png" group-title="TR BELGESEL",TR:DISCOVERY CHANNEL HD
+http://apptv.iptvlg.com:8080/live/PluS0nT/A2bXvZ!BvX9.K8UoPsH.BvX@AzX3/161.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR: DISCOVERY SCIENCE HD" tvg-logo="http://kde.ipne.be/logoslar/natgeohd.png" group-title="TR BELGESEL",TR:DISCOVERY SCIENCE HD
+http://apptv.iptvlg.com:8080/live/PluS0nT/A2bXvZ!BvX9.K8UoPsH.BvX@AzX3/161.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR: HISTORY HD" tvg-logo="http://kde.ipne.be/logoslar/historyhd.png" group-title="TR BELGESEL",TR:HISTORY HD
+http://apptv.iptvlg.com:8080/live/PluS0nT/A2bXvZ!BvX9.K8UoPsH.BvX@AzX3/161.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR:  BBC EART HD" tvg-logo=" http://picon.webhop.net/logo/uk/bbc_earth_uk.png " group-title="TR BELGESEL",TR:BBC EART HD
+http://apptv.iptvlg.com:8080/live/PluS0nT/A2bXvZ!BvX9.K8UoPsH.BvX@AzX3/161.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR: ANIMAL PLANET HD" tvg-logo="http://epgserver.sihirmedya.com/logoslar/tr/animalplanet.png" group-title="TR BELGESEL",TR: ANIMAL PLANET HD
+http://apptv.iptvlg.com:8080/live/PluS0nT/A2bXvZ!BvX9.K8UoPsH.BvX@AzX3/161.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR: DAVINCI LEARNING HD" tvg-logo="http://epgserver.sihirmedya.com/logoslar/tr/davincilearning.png" group-title="TR BELGESEL",TR:DAVINCI LEARNING HD
+http://apptv.iptvlg.com:8080/live/PluS0nT/A2bXvZ!BvX9.K8UoPsH.BvX@AzX3/161.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR: VIASAT HISTORY HD" tvg-logo="http://picon.webhop.net/logo/turkey2/Viasat_Nature-2014.png" group-title="TR BELGESEL",TR:VIASAT HISTORY HD
+http://apptv.iptvlg.com:8080/live/PluS0nT/A2bXvZ!BvX9.K8UoPsH.BvX@AzX3/161.m3u8
+#EXTINF:-1 tvg-id="Show TV HD" tvg-name="TR: SHOW TV FULL HD" tvg-logo="http://3biptv.com/3btv/showtv.jpg" group-title="TR: ULUSAL",TR: SHOW TV FULL HD
+https://mn-nl.mncdn.com:443/blutv_showtv/smil:show_hd.smil/chunklist_b3128000.m3u8
+#EXTINF:-1 tvg-id="ATV HD" tvg-name="TR: ATV FULL HD" tvg-logo="http://3biptv.com/3btv/atv_turkiye.jpg" group-title="TR: ULUSAL",TR: ATV FULL HD
+https://mn-nl.mncdn.com:443/blutv_atv/smil:atv_hd.smil/chunklist_b3128000.m3u8
+#EXTINF:-1 tvg-id="Star TV HD" tvg-name="TR: STAR TV FULL HD" tvg-logo="http://3biptv.com/3btv/star_tv_tr_hd.jpg" group-title="TR: ULUSAL",TR: STAR TV FULL HD
+https://mn-nl.mncdn.com:443/blutv_star/smil:star_hd.smil/chunklist_b3128000.m3u8
+#EXTINF:-1 tvg-id="Fox HD" tvg-name="TR: FOX TV FULL HD" tvg-logo="http://3biptv.com/3btv/fox_tr.jpg" group-title="TR: ULUSAL",TR: FOX TV FULL HD
+https://mn-nl.mncdn.com:443/blutv_foxtv/smil:foxtv_hd.smil/chunklist_b3128000.m3u8
+#EXTINF:-1 tvg-id="Kanal D HD" tvg-name="TR: KANAL D FULL HD" tvg-logo="http://3biptv.com/3btv/kanal_d_hd.jpg" group-title="TR: ULUSAL",TR: KANAL D FULL HD
+https://mn-nl.mncdn.com:443/blutv_kanald/smil:kanald_hd.smil/chunklist_b3128000.m3u8
+#EXTINF:-1 tvg-id="TRT 1 HD" tvg-name="TR: TRT 1 FULL HD" tvg-logo="http://3biptv.com/3btv/trt1.jpg" group-title="TR: ULUSAL",TR: TRT 1 FULL HD
+http://trtcanlitv-lh.akamaihd.net:80/i/TRT1HD_1@181842/master.m3u8
+#EXTINF:-1 tvg-id="TV8 HD" tvg-name="TR: TV 8 FULL HD" tvg-logo="http://3biptv.com/3btv/tv8tr.png" group-title="TR: ULUSAL",TR: TV 8 FULL HD
+https://mn-nl.mncdn.com:443/blutv_tv8/smil:tv8_hd1.smil/chunklist_b3128000.m3u8
+#EXTINF:-1 tvg-id="TV 8,5 HD" tvg-name="TR: TV 8.5 FULL HD" tvg-logo="https://drive.google.com/uc?export=download&id=1p1mA7fOKVDPUoXg2ACxn5VPfb7rOXV4r" group-title="TR: ULUSAL",TR: TV 8.5 FULL HD
+https://mn-nl.mncdn.com:443/blutv_tv8_5/smil:tv8_5_hd.smil/chunklist_b3128000.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="XX:ADULT 1" tvg-logo="http://picon.webhop.net/logo/flag/xxx.png" group-title="XX ADULT",XX:ADULT 1
+http://live.redtraffic.xyz/russian.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="XX:ADULT 2" tvg-logo="http://picon.webhop.net/logo/flag/xxx.png" group-title="XX ADULT",XX:ADULT 2
+http://live.redtraffic.xyz/cuckold.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="XX:ADULT 3" tvg-logo="http://picon.webhop.net/logo/flag/xxx.png" group-title="XX ADULT",XX:ADULT 3
+http://live.redtraffic.xyz/teen.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="XX:ADULT 4" tvg-logo="http://picon.webhop.net/logo/flag/xxx.png" group-title="XX ADULT",XX:ADULT 4
+http://live.redtraffic.xyz/latina.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="XX:ADULT 5" tvg-logo="http://picon.webhop.net/logo/flag/xxx.png" group-title="XX ADULT",XX:ADULT 5
+http://live.redtraffic.xyz/bigdick.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="XX:ADULT 6" tvg-logo="http://picon.webhop.net/logo/flag/xxx.png" group-title="XX ADULT",XX:ADULT 6
+http://live.redtraffic.xyz/bigtits.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="XX:ADULT 7" tvg-logo="http://picon.webhop.net/logo/flag/xxx.png" group-title="XX ADULT",XX:ADULT 7
+http://live.redtraffic.xyz/lesbian.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="XX:ADULT 8" tvg-logo="http://picon.webhop.net/logo/flag/xxx.png" group-title="XX ADULT",XX:ADULT 8
+http://178.124.183.15:80/hls/F7UMYQMCGB/bw2000000/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="XX:ADULT 9" tvg-logo="http://picon.webhop.net/logo/flag/xxx.png" group-title="XX ADULT",XX:ADULT 9
+http://live.redtraffic.xyz/milf.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="XX:ADULT 10" tvg-logo="http://picon.webhop.net/logo/flag/xxx.png" group-title="XX ADULT",XX:ADULT 10
+http://live.redtraffic.xyz/fetish.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="XX:ADULT 11" tvg-logo="http://picon.webhop.net/logo/flag/xxx.png" group-title="XX ADULT",XX:ADULT 11
+http://live.redtraffic.xyz/pornstar.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="XX:ADULT 12" tvg-logo="http://picon.webhop.net/logo/flag/xxx.png" group-title="XX ADULT",XX:ADULT 12
+http://live.redtraffic.xyz/bigass.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="XX:ADULT 13" tvg-logo="http://picon.webhop.net/logo/flag/xxx.png" group-title="XX ADULT",XX:ADULT 13
+http://live.redtraffic.xyz/interracial.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="XX:ADULT 14" tvg-logo="http://picon.webhop.net/logo/flag/xxx.png" group-title="XX ADULT",XX:ADULT 14
+http://live.redtraffic.xyz/pov.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="XX: ADULT 15" tvg-logo="http://picon.webhop.net/logo/flag/xxx.png" group-title="XX ADULT",XX:ADULT 15
+http://live.redtraffic.xyz/blowjob.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="XX:ADULT 16" tvg-logo="http://picon.webhop.net/logo/flag/xxx.png" group-title="XX ADULT",XX:ADULT 16
+http://live.redtraffic.xyz/hardcore.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="XX:ADULT 17" tvg-logo="http://picon.webhop.net/logo/flag/xxx.png" group-title="XX ADULT",XX:ADULT 17
+http://live.redtraffic.xyz/threesome.m3u8
