@@ -36,17 +36,17 @@ https://1xstream.rakip1.tv:443/beinsport4/video.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TR: BEIN BOX OFFICE 3 HD" tvg-logo="http://picon.webhop.net/logo/turkey2/beinboxoffice3.png " group-title="TR SİNEMA",TR:BEIN BOX OFFICE 3 HD
 
 #EXTINF:-1 tvg-id="" tvg-name="TR:BEİN MOVİESACTİON HD" tvg-logo="http://picon.webhop.net/logo/turkey/be_in_tr_movies_action_01_hd.png" group-title="TR SİNEMA",TR:BEİN MOVİES ACTİON HD
-
+http://yayin34.bunusanasoracagim.best:8855/selcuksportssinema/beinmoviesaction/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TR:BEİN MOVİESACTİON 2 HD" tvg-logo="http://picon.webhop.net/logo/turkey/be_in_tr_movies_action_01_hd.png" group-title="TR SİNEMA",TR:BEİN MOVİES ACTİON 2 HD
-
+http://yayin34.bunusanasoracagim.best:8855/selcuksportssinema/beinmoviesaction2/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TR:BEİN MOVİESPREMİER HD" tvg-logo="http://picon.webhop.net/logo/turkey/be_in_tr_movies_premier_01_hd.png" group-title="TR SİNEMA",TR:BEİN MOVİES PREMİER HD
-
+http://yayin34.bunusanasoracagim.best:8855/selcuksportssinema/beinmoviespremier/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TR:BEİN MOVİESSTARS HD" tvg-logo="http://picon.webhop.net/logo/turkey/be_in_tr_movies_stars_hd.png " group-title="TR SİNEMA",TR:BEİN MOVİES STARS HD
 
 #EXTINF:-1 tvg-id="" tvg-name="TR:BEİN MOVİESFAMLY HD" tvg-logo="http://picon.webhop.net/logo/turkey/be_in_tr_movies_family_hd.png " group-title="TR SİNEMA",TR:BEİN MOVİES FAMLY HD
 
 #EXTINF:-1 tvg-id="" tvg-name="TR:BEİN MOVİESTÜRK HD" tvg-logo="http://picon.webhop.net/logo/turkey/be_in_tr_movies_turk_hd.png" group-title="TR SİNEMA",TR:BEİN MOVİES TÜRK HD
-http://yayin14.bunusanasoracagim.best:8855/selcuksportssinema/beinmoviesturk/playlist.m3u8
+http://yayin34.bunusanasoracagim.best:8855/selcuksportssinema/beinmoviesturk/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TR: MOVİES SMART ACTİON HD" tvg-logo="http://picon.webhop.net/logo/turkey/movie_smart_action_hd.png" group-title="TR SİNEMA",TR:MOVİES SMART ACTİON HD
 http://yayin34.bunusanasoracagim.best:8855/selcuksportssinema/msaction/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TR: MOVİES SMART FAMİLY HD" tvg-logo="http://picon.webhop.net/logo/turkey/movie_smart_family_hd.png" group-title="TR SİNEMA",TR:MOVİES SMART FAMİLY HD
