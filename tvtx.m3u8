@@ -2,9 +2,9 @@
 #EXTINF:-1 tvg-id="" tvg-name="TR: EBA LİSE" tvg-logo="" group-title="TR EBA",TR:EBA LİSE
 https://tv-e-okul02.live.trt.com.tr:443/master_720.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TR: BEIN SPORTS 1 HD" tvg-logo="http://epgserver.sihirmedya.com/logoslar/tr/beinsports1hd.png" group-title="TR SPOR",TR:BEIN SPORTS 1 HD
-https://egoldstudio.com/eal/67.php
+https://egoldstudio.com/eal/testlink/test18.php
 #EXTINF:-1 tvg-id="" tvg-name="TR: BEIN SPORTS 1 HD" tvg-logo="http://epgserver.sihirmedya.com/logoslar/tr/beinsports1hd.png" group-title="TR SPOR",TR:BEIN SPORTS 1 HD
-http%3A%2F%2Fnewshqip.dyndns.tv%3A8080%2Flive%2Fextreamnew123456%2Fansjahanshsksn78jshn%2F8268.m3u8
+https://egoldstudio.com/eal/testlink/test19.php
 #EXTINF:-1 tvg-id="" tvg-name="TR: BEIN SPORTS 2 HD" tvg-logo="http://epgserver.sihirmedya.com/logoslar/tr/beinsports2hd.png" group-title="TR SPOR",TR:BEIN SPORTS 2 HD
 https://1xstream.rakip2.tv:443/be1111nsp000rt2/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TR: BEIN SPORTS 3 HD" tvg-logo="http://epgserver.sihirmedya.com/logoslar/tr/beinsports3hd.png" group-title="TR SPOR",TR:BEIN SPORTS 3 HD
