@@ -1,8 +1,8 @@
 ﻿#EXTM3U
 #EXTINF:-1 tvg-id="" tvg-name="TR: EBA LİSE" tvg-logo="" group-title="TR EBA",TR:EBA LİSE
 https://tv-e-okul02.live.trt.com.tr:443/master_720.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TR: BEIN SPORTS 1 HD" tvg-logo="http://epgserver.sihirmedya.com/logoslar/tr/beinsports1hd.png" group-title="TR SPOR",TR:BEIN SPORTS 1 HD
-https://egoldstudio.com/eal/tvt/test12.php
+#EXTINF:-1 tvg-id="" tvg-name="TR: BEIN SPORTS 18 HD" tvg-logo="http://epgserver.sihirmedya.com/logoslar/tr/beinsports1hd.png" group-title="TR SPOR",TR:BEIN SPORTS 18 HD
+https://egoldstudio.com/eal/est1.php
 #EXTINF:-1 tvg-id="" tvg-name="TR: BEIN SPORTS 1 HD" tvg-logo="http://epgserver.sihirmedya.com/logoslar/tr/beinsports1hd.png" group-title="TR SPOR",TR:BEIN SPORTS 1 HD
 https://egoldstudio.com/eal/tvt/test13.php
 #EXTINF:-1 tvg-id="" tvg-name="TR: BEIN SPORTS 2 HD" tvg-logo="http://epgserver.sihirmedya.com/logoslar/tr/beinsports2hd.png" group-title="TR SPOR",TR:BEIN SPORTS 2 HD
