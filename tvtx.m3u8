@@ -29,8 +29,8 @@ https://srv444.filmmodu.xyz:443/tt4540434/720p.tr.m3u8
 https://srv444.filmmodu.xyz:443/tt3465074/720p.tr.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="SİNEMA", SEVGİLİ HEDEFİM
 https://srv444.filmmodu.xyz/tt1235189/1080p.tr.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="SİNEMA", TEST 7
-
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="SİNEMA", KURYE
+https://srv70.filmmodu.xyz:443/tt9207616/720p.en.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="SİNEMA", MOMENTUM
 https://srv19.filmmodu.xyz:443/tt3181776/720p.tr.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="SİNEMA", BOY 7
