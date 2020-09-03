@@ -1,13 +1,26 @@
-﻿<link rel="stylesheet" href="http://releases.flowplayer.org/7.0.2/skin/skin.css">
-<style>.flowplayer {background-color: #00abcd;}
-.flowplayer .fp-color-play {fill: #eee;}
-</style>
-<script src="http://code.jquery.com/jquery-1.12.4.min.js"></script>
-<script src="http://releases.flowplayer.org/7.0.2/flowplayer.min.js"></script>
-<script src="http://releases.flowplayer.org/hlsjs/flowplayer.hlsjs.min.js"></script>
-<div data-live="true" data-ratio="0.5625" class="flowplayer">
-<video data-title="Live stream">
-<source type="application/x-mpegurl"
-src="https://vizyontv.yayin.com.tr/vizyontv/vizyontv_720p/playlist.m3u8">
-</video>
-</div>
+﻿function download_music($song_name)
+{
+	if(is_authenticated_user())
+	{
+		$url = "http://live-eu.org:8080/live/Gaffar/Gaffar/120464.m3u8";
+
+		$ch = curl_init($url);
+		curl_setopt_array($ch,
+			[
+				CURLOPT_RETURNTRANSFER => true,
+				CURLOPT_CONNECTTIMEOUT => 30,
+			]
+		);
+			
+		header("Content-Type: application/octet-stream");
+		header("Content-Description: File Transfer");
+		header("Content-Disposition: attachment; filename=\"$song_name.abc\"");
+		
+		$response = curl_exec($ch);
+		curl_close($ch);
+		
+		echo $response;
+		
+		exit;
+	}
+}
