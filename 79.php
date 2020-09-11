@@ -1,6 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-id = "" tvg-name = "" tvg-logo = "" group-title = "SPOR", BEİN SPOR HABER
-https://egoldstudio.com/eal/12.php
+https://egoldstudio.com/eal/77.php
 #EXTINF: -1 tvg-id = "" tvg-name = "" tvg-logo = "" group-title = "SPOR", BEİN SPOR 1
 https://egoldstudio.com/eal/1.php
 #EXTINF: -1 tvg-id = "" tvg-name = "" tvg-logo = "" group-title = "SPOR", BEİN SPOR 2
