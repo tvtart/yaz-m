@@ -1,12 +1,12 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="SİNEMA", BEİN MOVİES ACTION
-https://cy.tc/Czm3u8
+http://116.202.134.55:9044/
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="SİNEMA", BEİN MOVİES ACTION2
-https://egoldstudio.com/eal/tvt/salon2.php
+http://116.202.134.55:9043
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="SİNEMA", BEİN MOVİES TURK
-https://egoldstudio.com/eal/tvt/salon3.php
+http://116.202.134.55:9042
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="SİNEMA", THE RAİN SECTİON
-https://egoldstudio.com/eal/tvt/salon4.php
+http://116.202.134.55:9041
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="SİNEMA", BİNİŞ KAPIAI
 https://egoldstudio.com/eal/tvt/salon5.php
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="SİNEMA", STELLAYI KAÇIRMAK
