@@ -14,11 +14,11 @@ http://116.202.134.55:9033/
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="SİNEMA", SİTEPFORT KADINLARI
 http://116.202.134.55:9022/
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="SİNEMA", ANNA
-https://srv24.filmmodu.xyz:443/tt7456310/720p.tr.m3u8
+http://116.202.134.55:9015/
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="SİNEMA", ÖFKE
-https://srv93.filmmodu.xyz:443/tt1183252/720p.tr.m3u8
+http://116.202.134.55:9010/
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="SİNEMA", BAYAN KURŞUN
-https://srv56.filmmodu.xyz:443/tt5941692/720p.tr.m3u8
+http://116.202.134.55:9002/
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="SİNEMA", YAKIN KORUMA
 https://srv7.filmmodu.xyz:443/tt5316540/720p.tr.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="SİNEMA", BOY 7
