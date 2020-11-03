@@ -1,8 +1,8 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="SİNEMA", BEİN MOVİES ACTION
-http://116.202.134.55:9044/
+http://163.172.17.184:53124/
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="SİNEMA", BEİN MOVİES ACTION2
-http://116.202.134.55:9043/
+http://163.172.17.184:53125/
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="SİNEMA", BEİN MOVİES TURK
 http://116.202.134.55:9042/
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="SİNEMA", THE RAİN SECTİON
