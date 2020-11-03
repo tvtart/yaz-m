@@ -8,11 +8,11 @@ http://116.202.134.55:9042/
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="SİNEMA", THE RAİN SECTİON
 http://116.202.134.55:9041/
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="SİNEMA", BİNİŞ KAPIAI
-https://egoldstudio.com/eal/tvt/salon5.php
+http://116.202.134.55:9050/
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="SİNEMA", STELLAYI KAÇIRMAK
-https://srv96.filmmodu.xyz:443/tt8613876/720p.tr.m3u8
+http://116.202.134.55:9051/
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="SİNEMA", SİTEPFORT KADINLARI
-https://srv67.filmmodu.xyz:443/tt0327162/720p.tr.m3u8
+http://116.202.134.55:9052/
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="SİNEMA", ANNA
 https://srv24.filmmodu.xyz:443/tt7456310/720p.tr.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="SİNEMA", ÖFKE
