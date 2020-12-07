@@ -1,1 +1,4 @@
-{"title":"BEIN MOVIES ACTION","description":"","kind":"Single Item","playlist":[{"title":"BEIN MOVIES ACTION","mediaid":"aVBbz386","link":"http://cdn.jwplayer.com/previews/aVBbz386","image":"http://cdn.jwplayer.com/v2/media/aVBbz386/poster.jpg?width=720","images":[{"src":"http://cdn.jwplayer.com/v2/media/aVBbz386/poster.jpg?width=320","width":320,"type":"image/jpeg"},{"src":"http://cdn.jwplayer.com/v2/media/aVBbz386/poster.jpg?width=480","width":480,"type":"image/jpeg"},{"src":"http://cdn.jwplayer.com/v2/media/aVBbz386/poster.jpg?width=640","width":640,"type":"image/jpeg"},{"src":"http://cdn.jwplayer.com/v2/media/aVBbz386/poster.jpg?width=720","width":720,"type":"image/jpeg"}],"duration":0,"pubdate":1606379020,"description":"","recommendations":"http://cdn.jwplayer.com/v2/playlists/ekV5xeA7?related_media_id=aVBbz386","sources":[{"file":"https://cy.tc/Fgg_m3u8","type":"video/mp4"}],"variations":{}}],"feed_instance_id":"0dd6f6ee-7d78-4752-932d-149999899d22"}
+#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-STREAM-INF:BANDWIDTH=4149666,RESOLUTION=1920x1080,CODECS="avc1.42c028,mp4a.40.2"
+naxi/caxi.m3u8
