@@ -29,3 +29,5 @@ http://live.redtraffic.xyz/pov.m3u8
 http://live.redtraffic.xyz/teen.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",russian
 http://live.redtraffic.xyz/russian.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",tvt
+http://cstream9.com:80/hls/beinsports1_tr_si.m3u8
