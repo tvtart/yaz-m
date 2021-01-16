@@ -1,3 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="" tvg-name="TRT EBA TV ÝLKOKUL" tvg-logo="" group-title="ULUSAL",TRT EBA TV ÝLKOKUL
-https://egoldstudio.com/eal/78.m3u8
+
+#EXT-X-STREAM-INF:BANDWIDTH=65000,CODECS="mp4a.40.5"
+
+http://144.76.9.213:25461/live/lkaradag/lkaradag/50.m3u8
