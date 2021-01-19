@@ -1,3 +1,3 @@
-﻿# EXTM3U
-#EXTINF: -1 tvg-id = "" tvg-name = "" tvg-logo = "" group-title = "", kocaman
+﻿#EXTM3U
+#EXTINF: -1 tvg-id = "" tvg-name = "tvt" tvg-logo = "" group-title = "",tvt
 http://iptvh.it/sine1.m3u8
