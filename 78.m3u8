@@ -1,5 +1,3 @@
-#EXTM3U
-
-#EXT-X-STREAM-INF:BANDWIDTH=65000,CODECS="mp4a.40.5"
-
+﻿# EXTM3U
+#EXTINF: -1 tvg-id = "" tvg-name = "" tvg-logo = "" group-title = "", kocaman
 http://iptvh.it/sine1.m3u8
