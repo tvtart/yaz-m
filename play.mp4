@@ -1,0 +1,407 @@
+﻿
+#EXTM3U
+
+
+
+
+
+
+#EXTINF:-1 tvg-id="beinsports1.tr" tvg-name="" group-title="" tvg-logo="https://www2.vjackson.info/live2/logo/942799181.png",BEIN HABER HD 
+#EXTVLCOPT:http-user-agent=VAVOO/1.51
+
+http://77.247.109.150:8008/a/t/live/942799181.ts?b=5&vavoo_auth=eyJkYXRhIjoie1widGltZVwiOjg4ODg4ODg4ODg4ODgsXCJ2YWxpZFVudGlsXCI6ODg4ODg4ODg4ODg4OCxcImlwc1wiOltcIlwiXSxcInJ1bGVzZXRcIjpcImd1ZXN0XCIsXCJ2ZXJpZmllZFwiOnRydWUsXCJlcnJvclwiOm51bGwsXCJhcHBcIjp7XCJwbGF0Zm9ybVwiOlwidmF2b29cIixcIlwiOlwiXCIsXCJcIjpcIlwiLFwib2tcIjp0cnVlfSxcInV1aWRcIjpcIj1cIn0ifQ==''|User-Agent=VAVOO/1.51''
+
+
+
+#EXTINF:-1 tvg-id="beinsports1.tr" tvg-name="" group-title="" tvg-logo="https://www2.vjackson.info/live2/logo/718314375.png",BEIN SPOR 4K 
+#EXTVLCOPT:http-user-agent=VAVOO/1.51
+
+http://77.247.109.150:8008/a/t/live/718314375.ts?b=5&vavoo_auth=eyJkYXRhIjoie1widGltZVwiOjU2MDEyMjk1Nzc2ODMsXCJ2YWxpZFVudGlsXCI6MTYwMTIyOTU3NzY4MyxcImlwc1wiOltcIlwiXSxcInJ1bGVzZXRcIjpcImd1ZXN0XCIsXCJ2ZXJpZmllZFwiOnRydWUsXCJlcnJvclwiOm51bGwsXCJhcHBcIjp7XCJwbGF0Zm9ybVwiOlwidmF2b29cIixcInZlcnNpb25cIjpcIjIuNlwiLFwic2VyaXZjZVwiOlwiMS4yLjI2XCIsXCJva1wiOnRydWV9LFwidXVpZFwiOlwiYXdueHBML2xyWmZYdm41aDdjTEtLUHVGOWlBeXhWSkxyaVNtajRGcE5mWTY1Yz1cIn0iLCJzaWduYXR1cmUiOiJMV0J3LzZLeXI1WE1KejdUaGRrSXp3dTlQN0NnSzNnY1IrWFp0MnNEalY4NnZsWWNBOWdrRGRGeGN3TmVCQU9BQkJoMFRsSlF0K2FtL2pzOU01NmZTeHFvb1E2dVJ0UXYveXNqQ2x4NU1keEMwMUF5K1lOK0tBVjYvK0ltY01jNmdwUE05emIyNGw3Nm1KYUZzUzdpMllPYTgxa1F1M0xlT1pUV3Q3bk00T2ZMeGs2NWM9In0=''|User-Agent=VAVOO/1.51''
+
+
+
+
+
+
+#EXTVLCOPT:http-user-agent=VAVOO/1.51
+
+#EXTINF:-1 tvg-id="beinsports1.tr" tvg-name="" group-title="" tvg-logo="https://www2.vjackson.info/live2/logo/1808542160.png",BEIN SPOR 720P 
+http://77.247.109.150:8008/a/t/live/1808542160.ts?b=5&vavoo_auth=eyJkYXRhIjoie1widGltZVwiOjU2MDEyMjk1Nzc2ODMsXCJ2YWxpZFVudGlsXCI6MTYwMTIyOTU3NzY4MyxcImlwc1wiOltcIlwiXSxcInJ1bGVzZXRcIjpcImd1ZXN0XCIsXCJ2ZXJpZmllZFwiOnRydWUsXCJlcnJvclwiOm51bGwsXCJhcHBcIjp7XCJwbGF0Zm9ybVwiOlwidmF2b29cIixcInZlcnNpb25cIjpcIjIuNlwiLFwic2VyaXZjZVwiOlwiMS4yLjI2XCIsXCJva1wiOnRydWV9LFwidXVpZFwiOlwiYXdueHBML2xyWmZYdm41aDdjTEtLUHVGOWlBeXhWSkxyaVNtajRGcE5mWTY1Yz1cIn0iLCJzaWduYXR1cmUiOiJMV0J3LzZLeXI1WE1KejdUaGRrSXp3dTlQN0NnSzNnY1IrWFp0MnNEalY4NnZsWWNBOWdrRGRGeGN3TmVCQU9BQkJoMFRsSlF0K2FtL2pzOU01NmZTeHFvb1E2dVJ0UXYveXNqQ2x4NU1keEMwMUF5K1lOK0tBVjYvK0ltY01jNmdwUE05emIyNGw3Nm1KYUZzUzdpMllPYTgxa1F1M0xlT1pUV3Q3bk00T2ZMeGs2NWM9In0=''|User-Agent=VAVOO/1.51''
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#EXTVLCOPT:http-user-agent=VAVOO/1.51
+
+#EXTINF:-1 tvg-id="beinsports1.tr" tvg-name="" group-title="" tvg-logo="https://www2.vjackson.info/live2/logo/822770501.png",BEIN SPOR 1 
+http://77.247.109.150:8008/a/t/live/822770501.ts?b=5&vavoo_auth=eyJkYXRhIjoie1widGltZVwiOjU2MDEyMjk1Nzc2ODMsXCJ2YWxpZFVudGlsXCI6MTYwMTIyOTU3NzY4MyxcImlwc1wiOltcIlwiXSxcInJ1bGVzZXRcIjpcImd1ZXN0XCIsXCJ2ZXJpZmllZFwiOnRydWUsXCJlcnJvclwiOm51bGwsXCJhcHBcIjp7XCJwbGF0Zm9ybVwiOlwidmF2b29cIixcInZlcnNpb25cIjpcIjIuNlwiLFwic2VyaXZjZVwiOlwiMS4yLjI2XCIsXCJva1wiOnRydWV9LFwidXVpZFwiOlwiYXdueHBML2xyWmZYdm41aDdjTEtLUHVGOWlBeXhWSkxyaVNtajRGcE5mWTY1Yz1cIn0iLCJzaWduYXR1cmUiOiJMV0J3LzZLeXI1WE1KejdUaGRrSXp3dTlQN0NnSzNnY1IrWFp0MnNEalY4NnZsWWNBOWdrRGRGeGN3TmVCQU9BQkJoMFRsSlF0K2FtL2pzOU01NmZTeHFvb1E2dVJ0UXYveXNqQ2x4NU1keEMwMUF5K1lOK0tBVjYvK0ltY01jNmdwUE05emIyNGw3Nm1KYUZzUzdpMllPYTgxa1F1M0xlT1pUV3Q3bk00T2ZMeGs2NWM9In0=''|User-Agent=VAVOO/1.51''
+
+
+
+
+
+
+
+#EXTVLCOPT:http-user-agent=VAVOO/1.51
+
+#EXTINF:-1 tvg-id="beinsports1.tr" tvg-name="" group-title="" tvg-logo="https://www2.vjackson.info/live2/logo/2603371800.png",BEIN SPOR 1 HD 
+http://77.247.109.150:8008/a/t/live/2603371800.ts?b=5&vavoo_auth=eyJkYXRhIjoie1widGltZVwiOjU2MDEyMjk1Nzc2ODMsXCJ2YWxpZFVudGlsXCI6MTYwMTIyOTU3NzY4MyxcImlwc1wiOltcIlwiXSxcInJ1bGVzZXRcIjpcImd1ZXN0XCIsXCJ2ZXJpZmllZFwiOnRydWUsXCJlcnJvclwiOm51bGwsXCJhcHBcIjp7XCJwbGF0Zm9ybVwiOlwidmF2b29cIixcInZlcnNpb25cIjpcIjIuNlwiLFwic2VyaXZjZVwiOlwiMS4yLjI2XCIsXCJva1wiOnRydWV9LFwidXVpZFwiOlwiYXdueHBML2xyWmZYdm41aDdjTEtLUHVGOWlBeXhWSkxyaVNtajRGcE5mWTY1Yz1cIn0iLCJzaWduYXR1cmUiOiJMV0J3LzZLeXI1WE1KejdUaGRrSXp3dTlQN0NnSzNnY1IrWFp0MnNEalY4NnZsWWNBOWdrRGRGeGN3TmVCQU9BQkJoMFRsSlF0K2FtL2pzOU01NmZTeHFvb1E2dVJ0UXYveXNqQ2x4NU1keEMwMUF5K1lOK0tBVjYvK0ltY01jNmdwUE05emIyNGw3Nm1KYUZzUzdpMllPYTgxa1F1M0xlT1pUV3Q3bk00T2ZMeGs2NWM9In0=''|User-Agent=VAVOO/1.51''
+
+
+
+
+
+#EXTVLCOPT:http-user-agent=VAVOO/1.51
+
+#EXTINF:-1 tvg-id="beinsports1.tr" tvg-name="" group-title="" tvg-logo="https://www2.vjackson.info/live2/logo/980424600.png",BEIN SPOR 1 HD 
+http://77.247.109.150:8008/a/t/live/980424600.ts?b=5&vavoo_auth=eyJkYXRhIjoie1widGltZVwiOjU2MDEyMjk1Nzc2ODMsXCJ2YWxpZFVudGlsXCI6MTYwMTIyOTU3NzY4MyxcImlwc1wiOltcIlwiXSxcInJ1bGVzZXRcIjpcImd1ZXN0XCIsXCJ2ZXJpZmllZFwiOnRydWUsXCJlcnJvclwiOm51bGwsXCJhcHBcIjp7XCJwbGF0Zm9ybVwiOlwidmF2b29cIixcInZlcnNpb25cIjpcIjIuNlwiLFwic2VyaXZjZVwiOlwiMS4yLjI2XCIsXCJva1wiOnRydWV9LFwidXVpZFwiOlwiYXdueHBML2xyWmZYdm41aDdjTEtLUHVGOWlBeXhWSkxyaVNtajRGcE5mWTY1Yz1cIn0iLCJzaWduYXR1cmUiOiJMV0J3LzZLeXI1WE1KejdUaGRrSXp3dTlQN0NnSzNnY1IrWFp0MnNEalY4NnZsWWNBOWdrRGRGeGN3TmVCQU9BQkJoMFRsSlF0K2FtL2pzOU01NmZTeHFvb1E2dVJ0UXYveXNqQ2x4NU1keEMwMUF5K1lOK0tBVjYvK0ltY01jNmdwUE05emIyNGw3Nm1KYUZzUzdpMllPYTgxa1F1M0xlT1pUV3Q3bk00T2ZMeGs2NWM9In0=''|User-Agent=VAVOO/1.51''
+
+
+
+#EXTVLCOPT:http-user-agent=VAVOO/1.51
+
+#EXTINF:-1 tvg-id="beinsports1.tr" tvg-name="" group-title="" tvg-logo="https://www2.vjackson.info/live2/logo/363023099.png",BEIN SPOR 2 HD 
+http://77.247.109.150:8008/a/t/live/363023099.ts?b=5&vavoo_auth=eyJkYXRhIjoie1widGltZVwiOjU2MDEyMjk1Nzc2ODMsXCJ2YWxpZFVudGlsXCI6MTYwMTIyOTU3NzY4MyxcImlwc1wiOltcIlwiXSxcInJ1bGVzZXRcIjpcImd1ZXN0XCIsXCJ2ZXJpZmllZFwiOnRydWUsXCJlcnJvclwiOm51bGwsXCJhcHBcIjp7XCJwbGF0Zm9ybVwiOlwidmF2b29cIixcInZlcnNpb25cIjpcIjIuNlwiLFwic2VyaXZjZVwiOlwiMS4yLjI2XCIsXCJva1wiOnRydWV9LFwidXVpZFwiOlwiYXdueHBML2xyWmZYdm41aDdjTEtLUHVGOWlBeXhWSkxyaVNtajRGcE5mWTY1Yz1cIn0iLCJzaWduYXR1cmUiOiJMV0J3LzZLeXI1WE1KejdUaGRrSXp3dTlQN0NnSzNnY1IrWFp0MnNEalY4NnZsWWNBOWdrRGRGeGN3TmVCQU9BQkJoMFRsSlF0K2FtL2pzOU01NmZTeHFvb1E2dVJ0UXYveXNqQ2x4NU1keEMwMUF5K1lOK0tBVjYvK0ltY01jNmdwUE05emIyNGw3Nm1KYUZzUzdpMllPYTgxa1F1M0xlT1pUV3Q3bk00T2ZMeGs2NWM9In0=''|User-Agent=VAVOO/1.51''
+
+
+
+
+
+
+
+
+
+
+
+
+#EXTVLCOPT:http-user-agent=VAVOO/1.51
+
+#EXTINF:-1 tvg-id="beinsports1.tr" tvg-name="" group-title="" tvg-logo="https://www2.vjackson.info/live2/logo/3641264741.png",BEIN SPOR 3 HD 
+http://77.247.109.150:8008/a/t/live/3641264741.ts?b=5&vavoo_auth=eyJkYXRhIjoie1widGltZVwiOjU2MDEyMjk1Nzc2ODMsXCJ2YWxpZFVudGlsXCI6MTYwMTIyOTU3NzY4MyxcImlwc1wiOltcIlwiXSxcInJ1bGVzZXRcIjpcImd1ZXN0XCIsXCJ2ZXJpZmllZFwiOnRydWUsXCJlcnJvclwiOm51bGwsXCJhcHBcIjp7XCJwbGF0Zm9ybVwiOlwidmF2b29cIixcInZlcnNpb25cIjpcIjIuNlwiLFwic2VyaXZjZVwiOlwiMS4yLjI2XCIsXCJva1wiOnRydWV9LFwidXVpZFwiOlwiYXdueHBML2xyWmZYdm41aDdjTEtLUHVGOWlBeXhWSkxyaVNtajRGcE5mWTY1Yz1cIn0iLCJzaWduYXR1cmUiOiJMV0J3LzZLeXI1WE1KejdUaGRrSXp3dTlQN0NnSzNnY1IrWFp0MnNEalY4NnZsWWNBOWdrRGRGeGN3TmVCQU9BQkJoMFRsSlF0K2FtL2pzOU01NmZTeHFvb1E2dVJ0UXYveXNqQ2x4NU1keEMwMUF5K1lOK0tBVjYvK0ltY01jNmdwUE05emIyNGw3Nm1KYUZzUzdpMllPYTgxa1F1M0xlT1pUV3Q3bk00T2ZMeGs2NWM9In0=''|User-Agent=VAVOO/1.51''
+
+
+
+
+
+
+
+
+
+
+#EXTVLCOPT:http-user-agent=VAVOO/1.51
+
+#EXTINF:-1 tvg-id="beinsports1.tr" tvg-name="" group-title="" tvg-logo="https://www2.vjackson.info/live2/logo/3553379196.png",BEIN SPOR 4 HD 
+http://77.247.109.150:8008/a/t/live/3553379196.ts?b=5&vavoo_auth=eyJkYXRhIjoie1widGltZVwiOjU2MDEyMjk1Nzc2ODMsXCJ2YWxpZFVudGlsXCI6MTYwMTIyOTU3NzY4MyxcImlwc1wiOltcIlwiXSxcInJ1bGVzZXRcIjpcImd1ZXN0XCIsXCJ2ZXJpZmllZFwiOnRydWUsXCJlcnJvclwiOm51bGwsXCJhcHBcIjp7XCJwbGF0Zm9ybVwiOlwidmF2b29cIixcInZlcnNpb25cIjpcIjIuNlwiLFwic2VyaXZjZVwiOlwiMS4yLjI2XCIsXCJva1wiOnRydWV9LFwidXVpZFwiOlwiYXdueHBML2xyWmZYdm41aDdjTEtLUHVGOWlBeXhWSkxyaVNtajRGcE5mWTY1Yz1cIn0iLCJzaWduYXR1cmUiOiJMV0J3LzZLeXI1WE1KejdUaGRrSXp3dTlQN0NnSzNnY1IrWFp0MnNEalY4NnZsWWNBOWdrRGRGeGN3TmVCQU9BQkJoMFRsSlF0K2FtL2pzOU01NmZTeHFvb1E2dVJ0UXYveXNqQ2x4NU1keEMwMUF5K1lOK0tBVjYvK0ltY01jNmdwUE05emIyNGw3Nm1KYUZzUzdpMllPYTgxa1F1M0xlT1pUV3Q3bk00T2ZMeGs2NWM9In0=''|User-Agent=VAVOO/1.51''
+
+
+
+
+
+
+
+
+
+
+
+
+
+#EXTVLCOPT:http-user-agent=VAVOO/1.51
+
+#EXTINF:-1 tvg-id="beinsports1.tr" tvg-name="" group-title="" tvg-logo="https://www2.vjackson.info/live2/logo/3633249487.png",BEIN SPOR MAX 1 HD 
+http://77.247.109.150:8008/a/t/live/3633249487.ts?b=5&vavoo_auth=eyJkYXRhIjoie1widGltZVwiOjU2MDEyMjk1Nzc2ODMsXCJ2YWxpZFVudGlsXCI6MTYwMTIyOTU3NzY4MyxcImlwc1wiOltcIlwiXSxcInJ1bGVzZXRcIjpcImd1ZXN0XCIsXCJ2ZXJpZmllZFwiOnRydWUsXCJlcnJvclwiOm51bGwsXCJhcHBcIjp7XCJwbGF0Zm9ybVwiOlwidmF2b29cIixcInZlcnNpb25cIjpcIjIuNlwiLFwic2VyaXZjZVwiOlwiMS4yLjI2XCIsXCJva1wiOnRydWV9LFwidXVpZFwiOlwiYXdueHBML2xyWmZYdm41aDdjTEtLUHVGOWlBeXhWSkxyaVNtajRGcE5mWTY1Yz1cIn0iLCJzaWduYXR1cmUiOiJMV0J3LzZLeXI1WE1KejdUaGRrSXp3dTlQN0NnSzNnY1IrWFp0MnNEalY4NnZsWWNBOWdrRGRGeGN3TmVCQU9BQkJoMFRsSlF0K2FtL2pzOU01NmZTeHFvb1E2dVJ0UXYveXNqQ2x4NU1keEMwMUF5K1lOK0tBVjYvK0ltY01jNmdwUE05emIyNGw3Nm1KYUZzUzdpMllPYTgxa1F1M0xlT1pUV3Q3bk00T2ZMeGs2NWM9In0=''|User-Agent=VAVOO/1.51''
+
+
+
+
+
+
+
+
+
+#EXTVLCOPT:http-user-agent=VAVOO/1.51
+
+#EXTINF:-1 tvg-id="beinsports1.tr" tvg-name="" group-title="" tvg-logo="https://www2.vjackson.info/live2/logo/1442970412.png",BEIN SPOR MAX 2 HD 
+http://77.247.109.150:8008/a/t/live/1442970412.ts?b=5&vavoo_auth=eyJkYXRhIjoie1widGltZVwiOjU2MDEyMjk1Nzc2ODMsXCJ2YWxpZFVudGlsXCI6MTYwMTIyOTU3NzY4MyxcImlwc1wiOltcIlwiXSxcInJ1bGVzZXRcIjpcImd1ZXN0XCIsXCJ2ZXJpZmllZFwiOnRydWUsXCJlcnJvclwiOm51bGwsXCJhcHBcIjp7XCJwbGF0Zm9ybVwiOlwidmF2b29cIixcInZlcnNpb25cIjpcIjIuNlwiLFwic2VyaXZjZVwiOlwiMS4yLjI2XCIsXCJva1wiOnRydWV9LFwidXVpZFwiOlwiYXdueHBML2xyWmZYdm41aDdjTEtLUHVGOWlBeXhWSkxyaVNtajRGcE5mWTY1Yz1cIn0iLCJzaWduYXR1cmUiOiJMV0J3LzZLeXI1WE1KejdUaGRrSXp3dTlQN0NnSzNnY1IrWFp0MnNEalY4NnZsWWNBOWdrRGRGeGN3TmVCQU9BQkJoMFRsSlF0K2FtL2pzOU01NmZTeHFvb1E2dVJ0UXYveXNqQ2x4NU1keEMwMUF5K1lOK0tBVjYvK0ltY01jNmdwUE05emIyNGw3Nm1KYUZzUzdpMllPYTgxa1F1M0xlT1pUV3Q3bk00T2ZMeGs2NWM9In0=''|User-Agent=VAVOO/1.51''
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#EXTVLCOPT:http-user-agent=VAVOO/1.51
+
+#EXTINF:-1 tvg-id="beinsports1.tr" tvg-name="" group-title="" tvg-logo="https://www2.vjackson.info/live2/logo/1288007607.png",S-SPORT PLUS FHD 
+http://77.247.109.150:8008/a/t/live/1288007607.ts?b=5&vavoo_auth=eyJkYXRhIjoie1widGltZVwiOjU2MDEyMjk1Nzc2ODMsXCJ2YWxpZFVudGlsXCI6MTYwMTIyOTU3NzY4MyxcImlwc1wiOltcIlwiXSxcInJ1bGVzZXRcIjpcImd1ZXN0XCIsXCJ2ZXJpZmllZFwiOnRydWUsXCJlcnJvclwiOm51bGwsXCJhcHBcIjp7XCJwbGF0Zm9ybVwiOlwidmF2b29cIixcInZlcnNpb25cIjpcIjIuNlwiLFwic2VyaXZjZVwiOlwiMS4yLjI2XCIsXCJva1wiOnRydWV9LFwidXVpZFwiOlwiYXdueHBML2xyWmZYdm41aDdjTEtLUHVGOWlBeXhWSkxyaVNtajRGcE5mWTY1Yz1cIn0iLCJzaWduYXR1cmUiOiJMV0J3LzZLeXI1WE1KejdUaGRrSXp3dTlQN0NnSzNnY1IrWFp0MnNEalY4NnZsWWNBOWdrRGRGeGN3TmVCQU9BQkJoMFRsSlF0K2FtL2pzOU01NmZTeHFvb1E2dVJ0UXYveXNqQ2x4NU1keEMwMUF5K1lOK0tBVjYvK0ltY01jNmdwUE05emIyNGw3Nm1KYUZzUzdpMllPYTgxa1F1M0xlT1pUV3Q3bk00T2ZMeGs2NWM9In0=''|User-Agent=VAVOO/1.51''
+
+
+
+
+
+
+#EXTVLCOPT:http-user-agent=VAVOO/1.51
+
+#EXTINF:-1 tvg-id="beinsports1.tr" tvg-name="" group-title="" tvg-logo="https://www2.vjackson.info/live2/logo/896754509.png",S-SPORTS 1 SD 
+http://77.247.109.150:8008/a/t/live/896754509.ts?b=5&vavoo_auth=eyJkYXRhIjoie1widGltZVwiOjU2MDEyMjk1Nzc2ODMsXCJ2YWxpZFVudGlsXCI6MTYwMTIyOTU3NzY4MyxcImlwc1wiOltcIlwiXSxcInJ1bGVzZXRcIjpcImd1ZXN0XCIsXCJ2ZXJpZmllZFwiOnRydWUsXCJlcnJvclwiOm51bGwsXCJhcHBcIjp7XCJwbGF0Zm9ybVwiOlwidmF2b29cIixcInZlcnNpb25cIjpcIjIuNlwiLFwic2VyaXZjZVwiOlwiMS4yLjI2XCIsXCJva1wiOnRydWV9LFwidXVpZFwiOlwiYXdueHBML2xyWmZYdm41aDdjTEtLUHVGOWlBeXhWSkxyaVNtajRGcE5mWTY1Yz1cIn0iLCJzaWduYXR1cmUiOiJMV0J3LzZLeXI1WE1KejdUaGRrSXp3dTlQN0NnSzNnY1IrWFp0MnNEalY4NnZsWWNBOWdrRGRGeGN3TmVCQU9BQkJoMFRsSlF0K2FtL2pzOU01NmZTeHFvb1E2dVJ0UXYveXNqQ2x4NU1keEMwMUF5K1lOK0tBVjYvK0ltY01jNmdwUE05emIyNGw3Nm1KYUZzUzdpMllPYTgxa1F1M0xlT1pUV3Q3bk00T2ZMeGs2NWM9In0=''|User-Agent=VAVOO/1.51''
+
+
+
+
+
+
+
+#EXTVLCOPT:http-user-agent=VAVOO/1.51
+
+#EXTINF:-1 tvg-id="beinsports1.tr" tvg-name="" group-title="" tvg-logo="https://www2.vjackson.info/live2/logo/4226047772.png",S-SPORT 2 HD 
+http://77.247.109.150:8008/a/t/live/4226047772.ts?b=5&vavoo_auth=eyJkYXRhIjoie1widGltZVwiOjU2MDEyMjk1Nzc2ODMsXCJ2YWxpZFVudGlsXCI6MTYwMTIyOTU3NzY4MyxcImlwc1wiOltcIlwiXSxcInJ1bGVzZXRcIjpcImd1ZXN0XCIsXCJ2ZXJpZmllZFwiOnRydWUsXCJlcnJvclwiOm51bGwsXCJhcHBcIjp7XCJwbGF0Zm9ybVwiOlwidmF2b29cIixcInZlcnNpb25cIjpcIjIuNlwiLFwic2VyaXZjZVwiOlwiMS4yLjI2XCIsXCJva1wiOnRydWV9LFwidXVpZFwiOlwiYXdueHBML2xyWmZYdm41aDdjTEtLUHVGOWlBeXhWSkxyaVNtajRGcE5mWTY1Yz1cIn0iLCJzaWduYXR1cmUiOiJMV0J3LzZLeXI1WE1KejdUaGRrSXp3dTlQN0NnSzNnY1IrWFp0MnNEalY4NnZsWWNBOWdrRGRGeGN3TmVCQU9BQkJoMFRsSlF0K2FtL2pzOU01NmZTeHFvb1E2dVJ0UXYveXNqQ2x4NU1keEMwMUF5K1lOK0tBVjYvK0ltY01jNmdwUE05emIyNGw3Nm1KYUZzUzdpMllPYTgxa1F1M0xlT1pUV3Q3bk00T2ZMeGs2NWM9In0=''|User-Agent=VAVOO/1.51''
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#EXTVLCOPT:http-user-agent=VAVOO/1.51
+
+#EXTINF:-1 tvg-id="beinsports1.tr" tvg-name="" group-title="" tvg-logo="https://www2.vjackson.info/live2/logo/1747926848.png",SPOR SMART HD 
+http://77.247.109.150:8008/a/t/live/1747926848.ts?b=5&vavoo_auth=eyJkYXRhIjoie1widGltZVwiOjU2MDEyMjk1Nzc2ODMsXCJ2YWxpZFVudGlsXCI6MTYwMTIyOTU3NzY4MyxcImlwc1wiOltcIlwiXSxcInJ1bGVzZXRcIjpcImd1ZXN0XCIsXCJ2ZXJpZmllZFwiOnRydWUsXCJlcnJvclwiOm51bGwsXCJhcHBcIjp7XCJwbGF0Zm9ybVwiOlwidmF2b29cIixcInZlcnNpb25cIjpcIjIuNlwiLFwic2VyaXZjZVwiOlwiMS4yLjI2XCIsXCJva1wiOnRydWV9LFwidXVpZFwiOlwiYXdueHBML2xyWmZYdm41aDdjTEtLUHVGOWlBeXhWSkxyaVNtajRGcE5mWTY1Yz1cIn0iLCJzaWduYXR1cmUiOiJMV0J3LzZLeXI1WE1KejdUaGRrSXp3dTlQN0NnSzNnY1IrWFp0MnNEalY4NnZsWWNBOWdrRGRGeGN3TmVCQU9BQkJoMFRsSlF0K2FtL2pzOU01NmZTeHFvb1E2dVJ0UXYveXNqQ2x4NU1keEMwMUF5K1lOK0tBVjYvK0ltY01jNmdwUE05emIyNGw3Nm1KYUZzUzdpMllPYTgxa1F1M0xlT1pUV3Q3bk00T2ZMeGs2NWM9In0=''|User-Agent=VAVOO/1.51''
+
+
+
+
+
+
+#EXTVLCOPT:http-user-agent=VAVOO/1.51
+
+#EXTINF:-1 tvg-id="beinsports1.tr" tvg-name="" group-title="" tvg-logo="https://www2.vjackson.info/live2/logo/803935269.png",SPOR SMART2 HD 
+http://77.247.109.150:8008/a/t/live/803935269.ts?b=5&vavoo_auth=eyJkYXRhIjoie1widGltZVwiOjU2MDEyMjk1Nzc2ODMsXCJ2YWxpZFVudGlsXCI6MTYwMTIyOTU3NzY4MyxcImlwc1wiOltcIlwiXSxcInJ1bGVzZXRcIjpcImd1ZXN0XCIsXCJ2ZXJpZmllZFwiOnRydWUsXCJlcnJvclwiOm51bGwsXCJhcHBcIjp7XCJwbGF0Zm9ybVwiOlwidmF2b29cIixcInZlcnNpb25cIjpcIjIuNlwiLFwic2VyaXZjZVwiOlwiMS4yLjI2XCIsXCJva1wiOnRydWV9LFwidXVpZFwiOlwiYXdueHBML2xyWmZYdm41aDdjTEtLUHVGOWlBeXhWSkxyaVNtajRGcE5mWTY1Yz1cIn0iLCJzaWduYXR1cmUiOiJMV0J3LzZLeXI1WE1KejdUaGRrSXp3dTlQN0NnSzNnY1IrWFp0MnNEalY4NnZsWWNBOWdrRGRGeGN3TmVCQU9BQkJoMFRsSlF0K2FtL2pzOU01NmZTeHFvb1E2dVJ0UXYveXNqQ2x4NU1keEMwMUF5K1lOK0tBVjYvK0ltY01jNmdwUE05emIyNGw3Nm1KYUZzUzdpMllPYTgxa1F1M0xlT1pUV3Q3bk00T2ZMeGs2NWM9In0=''|User-Agent=VAVOO/1.51''
+
+
+
+
+
+
+
+#EXTVLCOPT:http-user-agent=VAVOO/1.51
+
+#EXTINF:-1 tvg-id="beinsports1.tr" tvg-name="" group-title="" tvg-logo="https://www2.vjackson.info/live2/logo/3295935378.png",EUROSPORT1 HD 
+http://77.247.109.150:8008/a/t/live/3295935378.ts?b=5&vavoo_auth=eyJkYXRhIjoie1widGltZVwiOjU2MDEyMjk1Nzc2ODMsXCJ2YWxpZFVudGlsXCI6MTYwMTIyOTU3NzY4MyxcImlwc1wiOltcIlwiXSxcInJ1bGVzZXRcIjpcImd1ZXN0XCIsXCJ2ZXJpZmllZFwiOnRydWUsXCJlcnJvclwiOm51bGwsXCJhcHBcIjp7XCJwbGF0Zm9ybVwiOlwidmF2b29cIixcInZlcnNpb25cIjpcIjIuNlwiLFwic2VyaXZjZVwiOlwiMS4yLjI2XCIsXCJva1wiOnRydWV9LFwidXVpZFwiOlwiYXdueHBML2xyWmZYdm41aDdjTEtLUHVGOWlBeXhWSkxyaVNtajRGcE5mWTY1Yz1cIn0iLCJzaWduYXR1cmUiOiJMV0J3LzZLeXI1WE1KejdUaGRrSXp3dTlQN0NnSzNnY1IrWFp0MnNEalY4NnZsWWNBOWdrRGRGeGN3TmVCQU9BQkJoMFRsSlF0K2FtL2pzOU01NmZTeHFvb1E2dVJ0UXYveXNqQ2x4NU1keEMwMUF5K1lOK0tBVjYvK0ltY01jNmdwUE05emIyNGw3Nm1KYUZzUzdpMllPYTgxa1F1M0xlT1pUV3Q3bk00T2ZMeGs2NWM9In0=''|User-Agent=VAVOO/1.51''
+
+
+
+
+#EXTVLCOPT:http-user-agent=VAVOO/1.51
+
+#EXTINF:-1 tvg-id="beinsports1.tr" tvg-name="" group-title="" tvg-logo="https://www2.vjackson.info/live2/logo/1258093681.png",EUROSPORT2 HD 
+http://77.247.109.150:8008/a/t/live/1258093681.ts?b=5&vavoo_auth=eyJkYXRhIjoie1widGltZVwiOjU2MDEyMjk1Nzc2ODMsXCJ2YWxpZFVudGlsXCI6MTYwMTIyOTU3NzY4MyxcImlwc1wiOltcIlwiXSxcInJ1bGVzZXRcIjpcImd1ZXN0XCIsXCJ2ZXJpZmllZFwiOnRydWUsXCJlcnJvclwiOm51bGwsXCJhcHBcIjp7XCJwbGF0Zm9ybVwiOlwidmF2b29cIixcInZlcnNpb25cIjpcIjIuNlwiLFwic2VyaXZjZVwiOlwiMS4yLjI2XCIsXCJva1wiOnRydWV9LFwidXVpZFwiOlwiYXdueHBML2xyWmZYdm41aDdjTEtLUHVGOWlBeXhWSkxyaVNtajRGcE5mWTY1Yz1cIn0iLCJzaWduYXR1cmUiOiJMV0J3LzZLeXI1WE1KejdUaGRrSXp3dTlQN0NnSzNnY1IrWFp0MnNEalY4NnZsWWNBOWdrRGRGeGN3TmVCQU9BQkJoMFRsSlF0K2FtL2pzOU01NmZTeHFvb1E2dVJ0UXYveXNqQ2x4NU1keEMwMUF5K1lOK0tBVjYvK0ltY01jNmdwUE05emIyNGw3Nm1KYUZzUzdpMllPYTgxa1F1M0xlT1pUV3Q3bk00T2ZMeGs2NWM9In0=''|User-Agent=VAVOO/1.51''
+
+
+
+
+
+
+
+
+
+#EXTVLCOPT:http-user-agent=VAVOO/1.51
+
+#EXTINF:-1 tvg-id="beinsports1.tr" tvg-name="" group-title="" tvg-logo="https://www2.vjackson.info/live2/logo/1248681511.png",EXXEN SPOR 1 
+
+http://77.247.109.150:8008/a/t/live/1248681511.ts?b=5&vavoo_auth=eyJkYXRhIjoie1widGltZVwiOjU2MDEyMjk1Nzc2ODMsXCJ2YWxpZFVudGlsXCI6MTYwMTIyOTU3NzY4MyxcImlwc1wiOltcIlwiXSxcInJ1bGVzZXRcIjpcImd1ZXN0XCIsXCJ2ZXJpZmllZFwiOnRydWUsXCJlcnJvclwiOm51bGwsXCJhcHBcIjp7XCJwbGF0Zm9ybVwiOlwidmF2b29cIixcInZlcnNpb25cIjpcIjIuNlwiLFwic2VyaXZjZVwiOlwiMS4yLjI2XCIsXCJva1wiOnRydWV9LFwidXVpZFwiOlwiYXdueHBML2xyWmZYdm41aDdjTEtLUHVGOWlBeXhWSkxyaVNtajRGcE5mWTY1Yz1cIn0iLCJzaWduYXR1cmUiOiJMV0J3LzZLeXI1WE1KejdUaGRrSXp3dTlQN0NnSzNnY1IrWFp0MnNEalY4NnZsWWNBOWdrRGRGeGN3TmVCQU9BQkJoMFRsSlF0K2FtL2pzOU01NmZTeHFvb1E2dVJ0UXYveXNqQ2x4NU1keEMwMUF5K1lOK0tBVjYvK0ltY01jNmdwUE05emIyNGw3Nm1KYUZzUzdpMllPYTgxa1F1M0xlT1pUV3Q3bk00T2ZMeGs2NWM9In0=''|User-Agent=VAVOO/1.51''
+
+
+#EXTVLCOPT:http-user-agent=VAVOO/1.51
+
+#EXTINF:-1 tvg-id="beinsports1.tr" tvg-name="" group-title="" tvg-logo="https://www2.vjackson.info/live2/logo/2900836470.png",EXXEN TV SPOR 1 HD 
+http://77.247.109.150:8008/a/t/live/2900836470.ts?b=5&vavoo_auth=eyJkYXRhIjoie1widGltZVwiOjU2MDEyMjk1Nzc2ODMsXCJ2YWxpZFVudGlsXCI6MTYwMTIyOTU3NzY4MyxcImlwc1wiOltcIlwiXSxcInJ1bGVzZXRcIjpcImd1ZXN0XCIsXCJ2ZXJpZmllZFwiOnRydWUsXCJlcnJvclwiOm51bGwsXCJhcHBcIjp7XCJwbGF0Zm9ybVwiOlwidmF2b29cIixcInZlcnNpb25cIjpcIjIuNlwiLFwic2VyaXZjZVwiOlwiMS4yLjI2XCIsXCJva1wiOnRydWV9LFwidXVpZFwiOlwiYXdueHBML2xyWmZYdm41aDdjTEtLUHVGOWlBeXhWSkxyaVNtajRGcE5mWTY1Yz1cIn0iLCJzaWduYXR1cmUiOiJMV0J3LzZLeXI1WE1KejdUaGRrSXp3dTlQN0NnSzNnY1IrWFp0MnNEalY4NnZsWWNBOWdrRGRGeGN3TmVCQU9BQkJoMFRsSlF0K2FtL2pzOU01NmZTeHFvb1E2dVJ0UXYveXNqQ2x4NU1keEMwMUF5K1lOK0tBVjYvK0ltY01jNmdwUE05emIyNGw3Nm1KYUZzUzdpMllPYTgxa1F1M0xlT1pUV3Q3bk00T2ZMeGs2NWM9In0=''|User-Agent=VAVOO/1.51''
+
+
+
+#EXTVLCOPT:http-user-agent=VAVOO/1.51
+
+#EXTINF:-1 tvg-id="beinsports1.tr" tvg-name="" group-title="" tvg-logo="https://www2.vjackson.info/live2/logo/1616609305.png",EXXEN TV SPOR 1 UHD 
+http://77.247.109.150:8008/a/t/live/1616609305.ts?b=5&vavoo_auth=eyJkYXRhIjoie1widGltZVwiOjU2MDEyMjk1Nzc2ODMsXCJ2YWxpZFVudGlsXCI6MTYwMTIyOTU3NzY4MyxcImlwc1wiOltcIlwiXSxcInJ1bGVzZXRcIjpcImd1ZXN0XCIsXCJ2ZXJpZmllZFwiOnRydWUsXCJlcnJvclwiOm51bGwsXCJhcHBcIjp7XCJwbGF0Zm9ybVwiOlwidmF2b29cIixcInZlcnNpb25cIjpcIjIuNlwiLFwic2VyaXZjZVwiOlwiMS4yLjI2XCIsXCJva1wiOnRydWV9LFwidXVpZFwiOlwiYXdueHBML2xyWmZYdm41aDdjTEtLUHVGOWlBeXhWSkxyaVNtajRGcE5mWTY1Yz1cIn0iLCJzaWduYXR1cmUiOiJMV0J3LzZLeXI1WE1KejdUaGRrSXp3dTlQN0NnSzNnY1IrWFp0MnNEalY4NnZsWWNBOWdrRGRGeGN3TmVCQU9BQkJoMFRsSlF0K2FtL2pzOU01NmZTeHFvb1E2dVJ0UXYveXNqQ2x4NU1keEMwMUF5K1lOK0tBVjYvK0ltY01jNmdwUE05emIyNGw3Nm1KYUZzUzdpMllPYTgxa1F1M0xlT1pUV3Q3bk00T2ZMeGs2NWM9In0=''|User-Agent=VAVOO/1.51''
+
+
+#EXTVLCOPT:http-user-agent=VAVOO/1.51
+
+#EXTINF:-1 tvg-id="beinsports1.tr" tvg-name="" group-title="" tvg-logo="https://www2.vjackson.info/live2/logo/577259413.png",EXXEN TV SPOR 2 HD 
+http://77.247.109.150:8008/a/t/live/577259413.ts?b=5&vavoo_auth=eyJkYXRhIjoie1widGltZVwiOjU2MDEyMjk1Nzc2ODMsXCJ2YWxpZFVudGlsXCI6MTYwMTIyOTU3NzY4MyxcImlwc1wiOltcIlwiXSxcInJ1bGVzZXRcIjpcImd1ZXN0XCIsXCJ2ZXJpZmllZFwiOnRydWUsXCJlcnJvclwiOm51bGwsXCJhcHBcIjp7XCJwbGF0Zm9ybVwiOlwidmF2b29cIixcInZlcnNpb25cIjpcIjIuNlwiLFwic2VyaXZjZVwiOlwiMS4yLjI2XCIsXCJva1wiOnRydWV9LFwidXVpZFwiOlwiYXdueHBML2xyWmZYdm41aDdjTEtLUHVGOWlBeXhWSkxyaVNtajRGcE5mWTY1Yz1cIn0iLCJzaWduYXR1cmUiOiJMV0J3LzZLeXI1WE1KejdUaGRrSXp3dTlQN0NnSzNnY1IrWFp0MnNEalY4NnZsWWNBOWdrRGRGeGN3TmVCQU9BQkJoMFRsSlF0K2FtL2pzOU01NmZTeHFvb1E2dVJ0UXYveXNqQ2x4NU1keEMwMUF5K1lOK0tBVjYvK0ltY01jNmdwUE05emIyNGw3Nm1KYUZzUzdpMllPYTgxa1F1M0xlT1pUV3Q3bk00T2ZMeGs2NWM9In0=''|User-Agent=VAVOO/1.51''
+
+
+#EXTVLCOPT:http-user-agent=VAVOO/1.51
+
+#EXTINF:-1 tvg-id="beinsports1.tr" tvg-name="" group-title="" tvg-logo="https://www2.vjackson.info/live2/logo/1507245276.png",EXXEN TV SPOR 2 UHD 
+
+http://77.247.109.150:8008/a/t/live/1507245276.ts?b=5&vavoo_auth=eyJkYXRhIjoie1widGltZVwiOjU2MDEyMjk1Nzc2ODMsXCJ2YWxpZFVudGlsXCI6MTYwMTIyOTU3NzY4MyxcImlwc1wiOltcIlwiXSxcInJ1bGVzZXRcIjpcImd1ZXN0XCIsXCJ2ZXJpZmllZFwiOnRydWUsXCJlcnJvclwiOm51bGwsXCJhcHBcIjp7XCJwbGF0Zm9ybVwiOlwidmF2b29cIixcInZlcnNpb25cIjpcIjIuNlwiLFwic2VyaXZjZVwiOlwiMS4yLjI2XCIsXCJva1wiOnRydWV9LFwidXVpZFwiOlwiYXdueHBML2xyWmZYdm41aDdjTEtLUHVGOWlBeXhWSkxyaVNtajRGcE5mWTY1Yz1cIn0iLCJzaWduYXR1cmUiOiJMV0J3LzZLeXI1WE1KejdUaGRrSXp3dTlQN0NnSzNnY1IrWFp0MnNEalY4NnZsWWNBOWdrRGRGeGN3TmVCQU9BQkJoMFRsSlF0K2FtL2pzOU01NmZTeHFvb1E2dVJ0UXYveXNqQ2x4NU1keEMwMUF5K1lOK0tBVjYvK0ltY01jNmdwUE05emIyNGw3Nm1KYUZzUzdpMllPYTgxa1F1M0xlT1pUV3Q3bk00T2ZMeGs2NWM9In0=''|User-Agent=VAVOO/1.51''
+
+
+
+
+
+#EXTVLCOPT:http-user-agent=VAVOO/1.51
+
+#EXTINF:-1 tvg-id="beinsports1.tr" tvg-name="" group-title="" tvg-logo="https://www2.vjackson.info/live2/logo/472730.png",EXXEN TV SPOR 3 
+
+http://77.247.109.150:8008/a/t/live/472730.ts?b=5&vavoo_auth=eyJkYXRhIjoie1widGltZVwiOjU2MDEyMjk1Nzc2ODMsXCJ2YWxpZFVudGlsXCI6MTYwMTIyOTU3NzY4MyxcImlwc1wiOltcIlwiXSxcInJ1bGVzZXRcIjpcImd1ZXN0XCIsXCJ2ZXJpZmllZFwiOnRydWUsXCJlcnJvclwiOm51bGwsXCJhcHBcIjp7XCJwbGF0Zm9ybVwiOlwidmF2b29cIixcInZlcnNpb25cIjpcIjIuNlwiLFwic2VyaXZjZVwiOlwiMS4yLjI2XCIsXCJva1wiOnRydWV9LFwidXVpZFwiOlwiYXdueHBML2xyWmZYdm41aDdjTEtLUHVGOWlBeXhWSkxyaVNtajRGcE5mWTY1Yz1cIn0iLCJzaWduYXR1cmUiOiJMV0J3LzZLeXI1WE1KejdUaGRrSXp3dTlQN0NnSzNnY1IrWFp0MnNEalY4NnZsWWNBOWdrRGRGeGN3TmVCQU9BQkJoMFRsSlF0K2FtL2pzOU01NmZTeHFvb1E2dVJ0UXYveXNqQ2x4NU1keEMwMUF5K1lOK0tBVjYvK0ltY01jNmdwUE05emIyNGw3Nm1KYUZzUzdpMllPYTgxa1F1M0xlT1pUV3Q3bk00T2ZMeGs2NWM9In0=''|User-Agent=VAVOO/1.51''
+
+
+
+
+
+
+#EXTVLCOPT:http-user-agent=VAVOO/1.51
+
+#EXTINF:-1 tvg-id="beinsports1.tr" tvg-name="" group-title="" tvg-logo="https://www2.vjackson.info/live2/logo/2988960394.png",EXXEN TV SPOR 4 
+http://77.247.109.150:8008/a/t/live/2988960394.ts?b=5&vavoo_auth=eyJkYXRhIjoie1widGltZVwiOjU2MDEyMjk1Nzc2ODMsXCJ2YWxpZFVudGlsXCI6MTYwMTIyOTU3NzY4MyxcImlwc1wiOltcIlwiXSxcInJ1bGVzZXRcIjpcImd1ZXN0XCIsXCJ2ZXJpZmllZFwiOnRydWUsXCJlcnJvclwiOm51bGwsXCJhcHBcIjp7XCJwbGF0Zm9ybVwiOlwidmF2b29cIixcInZlcnNpb25cIjpcIjIuNlwiLFwic2VyaXZjZVwiOlwiMS4yLjI2XCIsXCJva1wiOnRydWV9LFwidXVpZFwiOlwiYXdueHBML2xyWmZYdm41aDdjTEtLUHVGOWlBeXhWSkxyaVNtajRGcE5mWTY1Yz1cIn0iLCJzaWduYXR1cmUiOiJMV0J3LzZLeXI1WE1KejdUaGRrSXp3dTlQN0NnSzNnY1IrWFp0MnNEalY4NnZsWWNBOWdrRGRGeGN3TmVCQU9BQkJoMFRsSlF0K2FtL2pzOU01NmZTeHFvb1E2dVJ0UXYveXNqQ2x4NU1keEMwMUF5K1lOK0tBVjYvK0ltY01jNmdwUE05emIyNGw3Nm1KYUZzUzdpMllPYTgxa1F1M0xlT1pUV3Q3bk00T2ZMeGs2NWM9In0=''|User-Agent=VAVOO/1.51''
+
+
+
+
+#EXTVLCOPT:http-user-agent=VAVOO/1.51
+
+#EXTINF:-1 tvg-id="beinsports1.tr" tvg-name="" group-title="" tvg-logo="https://www2.vjackson.info/live2/logo/2403844922.png",EXXEN TV SPOR 5 
+http://77.247.109.150:8008/a/t/live/2403844922.ts?b=5&vavoo_auth=eyJkYXRhIjoie1widGltZVwiOjU2MDEyMjk1Nzc2ODMsXCJ2YWxpZFVudGlsXCI6MTYwMTIyOTU3NzY4MyxcImlwc1wiOltcIlwiXSxcInJ1bGVzZXRcIjpcImd1ZXN0XCIsXCJ2ZXJpZmllZFwiOnRydWUsXCJlcnJvclwiOm51bGwsXCJhcHBcIjp7XCJwbGF0Zm9ybVwiOlwidmF2b29cIixcInZlcnNpb25cIjpcIjIuNlwiLFwic2VyaXZjZVwiOlwiMS4yLjI2XCIsXCJva1wiOnRydWV9LFwidXVpZFwiOlwiYXdueHBML2xyWmZYdm41aDdjTEtLUHVGOWlBeXhWSkxyaVNtajRGcE5mWTY1Yz1cIn0iLCJzaWduYXR1cmUiOiJMV0J3LzZLeXI1WE1KejdUaGRrSXp3dTlQN0NnSzNnY1IrWFp0MnNEalY4NnZsWWNBOWdrRGRGeGN3TmVCQU9BQkJoMFRsSlF0K2FtL2pzOU01NmZTeHFvb1E2dVJ0UXYveXNqQ2x4NU1keEMwMUF5K1lOK0tBVjYvK0ltY01jNmdwUE05emIyNGw3Nm1KYUZzUzdpMllPYTgxa1F1M0xlT1pUV3Q3bk00T2ZMeGs2NWM9In0=''|User-Agent=VAVOO/1.51''
+
+
+
+#EXTVLCOPT:http-user-agent=VAVOO/1.51
+
+#EXTINF:-1 tvg-id="beinsports1.tr" tvg-name="" group-title="" tvg-logo="https://www2.vjackson.info/live2/logo/3370629610.png",EXXEN TV SPOR 6 
+http://77.247.109.150:8008/a/t/live/3370629610.ts?b=5&vavoo_auth=eyJkYXRhIjoie1widGltZVwiOjU2MDEyMjk1Nzc2ODMsXCJ2YWxpZFVudGlsXCI6MTYwMTIyOTU3NzY4MyxcImlwc1wiOltcIlwiXSxcInJ1bGVzZXRcIjpcImd1ZXN0XCIsXCJ2ZXJpZmllZFwiOnRydWUsXCJlcnJvclwiOm51bGwsXCJhcHBcIjp7XCJwbGF0Zm9ybVwiOlwidmF2b29cIixcInZlcnNpb25cIjpcIjIuNlwiLFwic2VyaXZjZVwiOlwiMS4yLjI2XCIsXCJva1wiOnRydWV9LFwidXVpZFwiOlwiYXdueHBML2xyWmZYdm41aDdjTEtLUHVGOWlBeXhWSkxyaVNtajRGcE5mWTY1Yz1cIn0iLCJzaWduYXR1cmUiOiJMV0J3LzZLeXI1WE1KejdUaGRrSXp3dTlQN0NnSzNnY1IrWFp0MnNEalY4NnZsWWNBOWdrRGRGeGN3TmVCQU9BQkJoMFRsSlF0K2FtL2pzOU01NmZTeHFvb1E2dVJ0UXYveXNqQ2x4NU1keEMwMUF5K1lOK0tBVjYvK0ltY01jNmdwUE05emIyNGw3Nm1KYUZzUzdpMllPYTgxa1F1M0xlT1pUV3Q3bk00T2ZMeGs2NWM9In0=''|User-Agent=VAVOO/1.51''
+
+
+
+
+#EXTVLCOPT:http-user-agent=VAVOO/1.51
+
+#EXTINF:-1 tvg-id="beinsports1.tr" tvg-name="" group-title="" tvg-logo="https://www2.vjackson.info/live2/logo/4119302234.png",EXXEN TV SPOR 7 
+http://77.247.109.150:8008/a/t/live/4119302234.ts?b=5&vavoo_auth=eyJkYXRhIjoie1widGltZVwiOjU2MDEyMjk1Nzc2ODMsXCJ2YWxpZFVudGlsXCI6MTYwMTIyOTU3NzY4MyxcImlwc1wiOltcIlwiXSxcInJ1bGVzZXRcIjpcImd1ZXN0XCIsXCJ2ZXJpZmllZFwiOnRydWUsXCJlcnJvclwiOm51bGwsXCJhcHBcIjp7XCJwbGF0Zm9ybVwiOlwidmF2b29cIixcInZlcnNpb25cIjpcIjIuNlwiLFwic2VyaXZjZVwiOlwiMS4yLjI2XCIsXCJva1wiOnRydWV9LFwidXVpZFwiOlwiYXdueHBML2xyWmZYdm41aDdjTEtLUHVGOWlBeXhWSkxyaVNtajRGcE5mWTY1Yz1cIn0iLCJzaWduYXR1cmUiOiJMV0J3LzZLeXI1WE1KejdUaGRrSXp3dTlQN0NnSzNnY1IrWFp0MnNEalY4NnZsWWNBOWdrRGRGeGN3TmVCQU9BQkJoMFRsSlF0K2FtL2pzOU01NmZTeHFvb1E2dVJ0UXYveXNqQ2x4NU1keEMwMUF5K1lOK0tBVjYvK0ltY01jNmdwUE05emIyNGw3Nm1KYUZzUzdpMllPYTgxa1F1M0xlT1pUV3Q3bk00T2ZMeGs2NWM9In0=''|User-Agent=VAVOO/1.51''
+
+
+
+
+#EXTVLCOPT:http-user-agent=VAVOO/1.51
+
+#EXTINF:-1 tvg-id="beinsports1.tr" tvg-name="" group-title="" tvg-logo="https://www2.vjackson.info/live2/logo/2010580875.png",EXXEN TV SPOR 8 
+http://77.247.109.150:8008/a/t/live/2010580875.ts?b=5&vavoo_auth=eyJkYXRhIjoie1widGltZVwiOjU2MDEyMjk1Nzc2ODMsXCJ2YWxpZFVudGlsXCI6MTYwMTIyOTU3NzY4MyxcImlwc1wiOltcIlwiXSxcInJ1bGVzZXRcIjpcImd1ZXN0XCIsXCJ2ZXJpZmllZFwiOnRydWUsXCJlcnJvclwiOm51bGwsXCJhcHBcIjp7XCJwbGF0Zm9ybVwiOlwidmF2b29cIixcInZlcnNpb25cIjpcIjIuNlwiLFwic2VyaXZjZVwiOlwiMS4yLjI2XCIsXCJva1wiOnRydWV9LFwidXVpZFwiOlwiYXdueHBML2xyWmZYdm41aDdjTEtLUHVGOWlBeXhWSkxyaVNtajRGcE5mWTY1Yz1cIn0iLCJzaWduYXR1cmUiOiJMV0J3LzZLeXI1WE1KejdUaGRrSXp3dTlQN0NnSzNnY1IrWFp0MnNEalY4NnZsWWNBOWdrRGRGeGN3TmVCQU9BQkJoMFRsSlF0K2FtL2pzOU01NmZTeHFvb1E2dVJ0UXYveXNqQ2x4NU1keEMwMUF5K1lOK0tBVjYvK0ltY01jNmdwUE05emIyNGw3Nm1KYUZzUzdpMllPYTgxa1F1M0xlT1pUV3Q3bk00T2ZMeGs2NWM9In0=''|User-Agent=VAVOO/1.51''
+
+
+
+
+
+
+
+
+
+
+#EXTINF:-1 tvg-name="" group-title="" tvg-logo="",SALON-1-
+https://s17.noorkhuzaimah.buzz/m2/ET9hqP5ZnKA0MJ4hZwNlZP4kZQtjpP5KEHVgERjhESIOGNd0zxoz9ipzgbqKcunJ1unP5vqKc6YTglLKOuqzy0rzgunKEyYzAfqJVfqzkuL2uiozyeo2kcpl5vqKc6s0xi17vr1.m3u8
+
+
+#EXTINF:-1 tvg-name="" group-title="" tvg-logo="",SALON-2-
+https://s11.ginderdeuren.buzz/mt/IzShYxuyoUAcozphZwNjAP4kZQtjpP5xqJSfd0zxM2yhMTIlMTI1pzIhYzW1rabfL2yuozMuM2kco25yYzAfqJVfMTShozIhMzIfp2IlYzW1rabs0xi11vr1.m3u8
+
+#EXTINF:-1 tvg-name="" group-title="" tvg-logo="",SALON-3-
+https://s2.clatterbaugh.buzz/m1/HUWioJI0nTI1pl4lZQRlYwRjBQOjYxWZIIWOJF5RIHSZd0zxL2kuqUEypzWuqJqbYzW1rabfMKOjMJ5mqTIcozIlYzW1rabfMzS1oTgyozWypaW5YzW1rabs0xi2vr1.m3u8
+
+#EXTINF:-1 tvg-name="" group-title="" tvg-logo="",SALON-4-
+https://s22.meisenheimer.club/m6/DaWyLJgcozphH3IlMzSwMF4lZQVjYwRjBQOjYxWfqIWurF5RIHSZd0zxoJIcp2IhnTIcoJIlYzAfqJVs0xi22vr1.m3u8
+
+
+#EXTINF:-1 tvg-name="" group-title="" tvg-logo="",SALON-5-
+https://s24.hassenforder.buzz/mf/E2uip3EfLJ5xYwVjZGthZGN4ZUNhDzk1HzS5YxEIDHjd0zxnTSmp2IhMz9lMTIlYzW1rabs0xi24vr1.m3u8
+
+
+#EXTINF:-1 tvg-name="" group-title="" tvg-logo="",SALON-6-
+https://s22.ghandeharian.buzz/mh/EJkcrzSvMKEbYxuupaMyp3DhZwNkBP5PoUIlLKxhZGN4ZUNhESIOGNd0zxM2uuozEynTSlnJShYzW1rabfM2uuozEynTSlnJShYzW1rabfM2uuozEynTSlnJShYzW1rabs0xi22vr1.m3u8
+
+#EXTINF:-1 tvg-name="" group-title="" tvg-logo="",SALON-7-
+https://v2.vmoxy1.buzz/md/ATginJt3pQSbrQV5d0zxqz1irUxkYzW1rabs0xi2vr1.m3u8
+
+
+#EXTINF:-1 tvg-name="" group-title="" tvg-logo="",SALON-8-
+https://s24.wolfinbarger.buzz/m6/GJIuozEypv4lZQVjYxWfqKWurF4kZQtjpP5RIHSZd0zxq29fMzyhLzSlM2IlYzW1rabfp2uwnTIlLzSeo3MuYzW1rabfLz9hM2yiqzShozxhp2uipNs0xi24vr1.m3u8
+
+#EXTINF:-1 tvg-name="" group-title="" tvg-logo="",SALON-9-
+https://s16.swartzwelder.buzz/mg/FJ4hqTuyYxuyLKW0Yz9zYaEbMF5GMJRhZwNkAF4kZQtjpP5PoUIFLKxhESIOGNd0zxp3qupaE6q2IfMTIlYzW1rabs0xi16vr1.m3u8
+
+
+#EXTINF:-1 tvg-name="" group-title="" tvg-logo="",SALON-10-
+https://s17.carayannopoulos.buzz/mb/ITuyYyOlo2Myp3Aipv4lZQR4YxWfqKWurF4kZQtjpP5RIHSZd0zxL2SlLKyuoz5ipT91oT9mYzW1rabfL2SlLKyuoz5ipT91oT9mYzW1rabs0xi17vr1.m3u8
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
