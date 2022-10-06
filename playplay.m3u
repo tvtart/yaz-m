@@ -1,0 +1,9 @@
+#EXTM3U
+
+
+
+
+#EXTVLCOPT:http-user-agent=VAVOO/1.51
+
+#EXTINF:-1 tvg-id="beinsports1.tr" tvg-name="" group-title="" tvg-logo="https://www2.vjackson.info/live2/logo/1808542160.png",BEIN SPOR 720P 
+http://77.247.109.150:8008/a/t/live/1808542160.ts?b=5&vavoo_auth=eyJkYXRhIjoie1widGltZVwiOjU2MDEyMjk1Nzc2ODMsXCJ2YWxpZFVudGlsXCI6MTYwMTIyOTU3NzY4MyxcImlwc1wiOltcIlwiXSxcInJ1bGVzZXRcIjpcImd1ZXN0XCIsXCJ2ZXJpZmllZFwiOnRydWUsXCJlcnJvclwiOm51bGwsXCJhcHBcIjp7XCJwbGF0Zm9ybVwiOlwidmF2b29cIixcInZlcnNpb25cIjpcIjIuNlwiLFwic2VyaXZjZVwiOlwiMS4yLjI2XCIsXCJva1wiOnRydWV9LFwidXVpZFwiOlwiYXdueHBML2xyWmZYdm41aDdjTEtLUHVGOWlBeXhWSkxyaVNtajRGcE5mWTY1Yz1cIn0iLCJzaWduYXR1cmUiOiJMV0J3LzZLeXI1WE1KejdUaGRrSXp3dTlQN0NnSzNnY1IrWFp0MnNEalY4NnZsWWNBOWdrRGRGeGN3TmVCQU9BQkJoMFRsSlF0K2FtL2pzOU01NmZTeHFvb1E2dVJ0UXYveXNqQ2x4NU1keEMwMUF5K1lOK0tBVjYvK0ltY01jNmdwUE05emIyNGw3Nm1KYUZzUzdpMllPYTgxa1F1M0xlT1pUV3Q3bk00T2ZMeGs2NWM9In0=''|User-Agent=VAVOO/1.51''
